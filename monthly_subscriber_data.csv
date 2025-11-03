@@ -1,0 +1,1081 @@
+Date,Kebele,Segment,New_Subscribers,Monthly_Churn
+2023-01-01,Arada,Individual User,33,6
+2023-01-01,Arada,Business,7,3
+2023-01-01,Arada,Telebirr Adopter,10,4
+2023-01-01,Dil Begerera,Individual User,37,1
+2023-01-01,Dil Begerera,Business,7,3
+2023-01-01,Dil Begerera,Telebirr Adopter,9,0
+2023-01-01,Fana Womba,Individual User,47,5
+2023-01-01,Fana Womba,Business,10,2
+2023-01-01,Fana Womba,Telebirr Adopter,11,5
+2023-01-01,Larena Amba,Individual User,23,5
+2023-01-01,Larena Amba,Business,5,2
+2023-01-01,Larena Amba,Telebirr Adopter,6,4
+2023-01-01,Mehal Amba,Individual User,31,2
+2023-01-01,Mehal Amba,Business,5,5
+2023-01-01,Mehal Amba,Telebirr Adopter,7,0
+2023-01-01,Merkato Yushuwa,Individual User,32,1
+2023-01-01,Merkato Yushuwa,Business,7,5
+2023-01-01,Merkato Yushuwa,Telebirr Adopter,11,1
+2023-01-01,Wadu Amba,Individual User,35,3
+2023-01-01,Wadu Amba,Business,8,0
+2023-01-01,Wadu Amba,Telebirr Adopter,15,1
+2023-01-01,Sodo-Kore,Individual User,15,0
+2023-01-01,Sodo-Kore,Business,4,3
+2023-01-01,Sodo-Kore,Telebirr Adopter,4,2
+2023-01-01,Bale-Wogene,Individual User,17,3
+2023-01-01,Bale-Wogene,Business,4,5
+2023-01-01,Bale-Wogene,Telebirr Adopter,4,2
+2023-01-01,Hembecho,Individual User,17,1
+2023-01-01,Hembecho,Business,3,2
+2023-01-01,Hembecho,Telebirr Adopter,5,2
+2023-01-01,Shanto,Individual User,15,1
+2023-01-01,Shanto,Business,5,5
+2023-01-01,Shanto,Telebirr Adopter,5,2
+2023-01-01,Dubbo,Individual User,6,5
+2023-01-01,Dubbo,Business,2,5
+2023-01-01,Dubbo,Telebirr Adopter,1,5
+2023-01-01,Ocholo,Individual User,16,0
+2023-01-01,Ocholo,Business,2,4
+2023-01-01,Ocholo,Telebirr Adopter,4,5
+2023-01-01,Gesuba,Individual User,12,1
+2023-01-01,Gesuba,Business,3,4
+2023-01-01,Gesuba,Telebirr Adopter,3,5
+2023-01-01,Humbo-Aba,Individual User,21,2
+2023-01-01,Humbo-Aba,Business,5,1
+2023-01-01,Humbo-Aba,Telebirr Adopter,5,3
+2023-02-01,Arada,Individual User,30,4
+2023-02-01,Arada,Business,7,2
+2023-02-01,Arada,Telebirr Adopter,12,5
+2023-02-01,Dil Begerera,Individual User,35,6
+2023-02-01,Dil Begerera,Business,6,4
+2023-02-01,Dil Begerera,Telebirr Adopter,10,1
+2023-02-01,Fana Womba,Individual User,39,6
+2023-02-01,Fana Womba,Business,9,2
+2023-02-01,Fana Womba,Telebirr Adopter,14,0
+2023-02-01,Larena Amba,Individual User,27,2
+2023-02-01,Larena Amba,Business,6,0
+2023-02-01,Larena Amba,Telebirr Adopter,6,2
+2023-02-01,Mehal Amba,Individual User,31,4
+2023-02-01,Mehal Amba,Business,8,2
+2023-02-01,Mehal Amba,Telebirr Adopter,11,0
+2023-02-01,Merkato Yushuwa,Individual User,36,2
+2023-02-01,Merkato Yushuwa,Business,9,4
+2023-02-01,Merkato Yushuwa,Telebirr Adopter,10,5
+2023-02-01,Wadu Amba,Individual User,36,3
+2023-02-01,Wadu Amba,Business,12,1
+2023-02-01,Wadu Amba,Telebirr Adopter,16,5
+2023-02-01,Sodo-Kore,Individual User,17,3
+2023-02-01,Sodo-Kore,Business,5,3
+2023-02-01,Sodo-Kore,Telebirr Adopter,5,5
+2023-02-01,Bale-Wogene,Individual User,18,3
+2023-02-01,Bale-Wogene,Business,5,1
+2023-02-01,Bale-Wogene,Telebirr Adopter,7,2
+2023-02-01,Hembecho,Individual User,18,2
+2023-02-01,Hembecho,Business,5,1
+2023-02-01,Hembecho,Telebirr Adopter,3,5
+2023-02-01,Shanto,Individual User,20,5
+2023-02-01,Shanto,Business,4,4
+2023-02-01,Shanto,Telebirr Adopter,5,2
+2023-02-01,Dubbo,Individual User,7,5
+2023-02-01,Dubbo,Business,1,4
+2023-02-01,Dubbo,Telebirr Adopter,2,3
+2023-02-01,Ocholo,Individual User,18,5
+2023-02-01,Ocholo,Business,5,3
+2023-02-01,Ocholo,Telebirr Adopter,5,2
+2023-02-01,Gesuba,Individual User,11,1
+2023-02-01,Gesuba,Business,2,1
+2023-02-01,Gesuba,Telebirr Adopter,4,4
+2023-02-01,Humbo-Aba,Individual User,24,4
+2023-02-01,Humbo-Aba,Business,5,0
+2023-02-01,Humbo-Aba,Telebirr Adopter,7,0
+2023-03-01,Arada,Individual User,38,1
+2023-03-01,Arada,Business,10,1
+2023-03-01,Arada,Telebirr Adopter,10,5
+2023-03-01,Dil Begerera,Individual User,35,2
+2023-03-01,Dil Begerera,Business,8,5
+2023-03-01,Dil Begerera,Telebirr Adopter,9,3
+2023-03-01,Fana Womba,Individual User,48,5
+2023-03-01,Fana Womba,Business,12,0
+2023-03-01,Fana Womba,Telebirr Adopter,14,3
+2023-03-01,Larena Amba,Individual User,25,4
+2023-03-01,Larena Amba,Business,5,4
+2023-03-01,Larena Amba,Telebirr Adopter,7,3
+2023-03-01,Mehal Amba,Individual User,34,5
+2023-03-01,Mehal Amba,Business,8,2
+2023-03-01,Mehal Amba,Telebirr Adopter,11,4
+2023-03-01,Merkato Yushuwa,Individual User,45,2
+2023-03-01,Merkato Yushuwa,Business,13,5
+2023-03-01,Merkato Yushuwa,Telebirr Adopter,13,5
+2023-03-01,Wadu Amba,Individual User,51,2
+2023-03-01,Wadu Amba,Business,12,5
+2023-03-01,Wadu Amba,Telebirr Adopter,11,4
+2023-03-01,Sodo-Kore,Individual User,19,2
+2023-03-01,Sodo-Kore,Business,4,5
+2023-03-01,Sodo-Kore,Telebirr Adopter,8,2
+2023-03-01,Bale-Wogene,Individual User,22,1
+2023-03-01,Bale-Wogene,Business,5,2
+2023-03-01,Bale-Wogene,Telebirr Adopter,7,3
+2023-03-01,Hembecho,Individual User,16,1
+2023-03-01,Hembecho,Business,6,3
+2023-03-01,Hembecho,Telebirr Adopter,7,0
+2023-03-01,Shanto,Individual User,22,6
+2023-03-01,Shanto,Business,4,5
+2023-03-01,Shanto,Telebirr Adopter,7,2
+2023-03-01,Dubbo,Individual User,6,4
+2023-03-01,Dubbo,Business,2,1
+2023-03-01,Dubbo,Telebirr Adopter,3,4
+2023-03-01,Ocholo,Individual User,16,0
+2023-03-01,Ocholo,Business,4,5
+2023-03-01,Ocholo,Telebirr Adopter,6,2
+2023-03-01,Gesuba,Individual User,13,5
+2023-03-01,Gesuba,Business,2,4
+2023-03-01,Gesuba,Telebirr Adopter,4,4
+2023-03-01,Humbo-Aba,Individual User,22,2
+2023-03-01,Humbo-Aba,Business,7,1
+2023-03-01,Humbo-Aba,Telebirr Adopter,7,2
+2023-04-01,Arada,Individual User,51,3
+2023-04-01,Arada,Business,9,4
+2023-04-01,Arada,Telebirr Adopter,12,4
+2023-04-01,Dil Begerera,Individual User,45,2
+2023-04-01,Dil Begerera,Business,8,4
+2023-04-01,Dil Begerera,Telebirr Adopter,13,2
+2023-04-01,Fana Womba,Individual User,61,5
+2023-04-01,Fana Womba,Business,9,0
+2023-04-01,Fana Womba,Telebirr Adopter,16,0
+2023-04-01,Larena Amba,Individual User,30,3
+2023-04-01,Larena Amba,Business,8,2
+2023-04-01,Larena Amba,Telebirr Adopter,7,1
+2023-04-01,Mehal Amba,Individual User,32,1
+2023-04-01,Mehal Amba,Business,10,1
+2023-04-01,Mehal Amba,Telebirr Adopter,13,4
+2023-04-01,Merkato Yushuwa,Individual User,49,2
+2023-04-01,Merkato Yushuwa,Business,12,0
+2023-04-01,Merkato Yushuwa,Telebirr Adopter,13,5
+2023-04-01,Wadu Amba,Individual User,56,5
+2023-04-01,Wadu Amba,Business,14,0
+2023-04-01,Wadu Amba,Telebirr Adopter,15,4
+2023-04-01,Sodo-Kore,Individual User,27,2
+2023-04-01,Sodo-Kore,Business,5,1
+2023-04-01,Sodo-Kore,Telebirr Adopter,5,5
+2023-04-01,Bale-Wogene,Individual User,27,4
+2023-04-01,Bale-Wogene,Business,5,4
+2023-04-01,Bale-Wogene,Telebirr Adopter,8,1
+2023-04-01,Hembecho,Individual User,26,3
+2023-04-01,Hembecho,Business,4,4
+2023-04-01,Hembecho,Telebirr Adopter,8,4
+2023-04-01,Shanto,Individual User,23,4
+2023-04-01,Shanto,Business,6,1
+2023-04-01,Shanto,Telebirr Adopter,8,4
+2023-04-01,Dubbo,Individual User,9,5
+2023-04-01,Dubbo,Business,2,5
+2023-04-01,Dubbo,Telebirr Adopter,2,1
+2023-04-01,Ocholo,Individual User,18,6
+2023-04-01,Ocholo,Business,5,2
+2023-04-01,Ocholo,Telebirr Adopter,7,3
+2023-04-01,Gesuba,Individual User,16,5
+2023-04-01,Gesuba,Business,4,5
+2023-04-01,Gesuba,Telebirr Adopter,4,2
+2023-04-01,Humbo-Aba,Individual User,35,4
+2023-04-01,Humbo-Aba,Business,6,4
+2023-04-01,Humbo-Aba,Telebirr Adopter,12,3
+2023-05-01,Arada,Individual User,48,2
+2023-05-01,Arada,Business,9,1
+2023-05-01,Arada,Telebirr Adopter,11,1
+2023-05-01,Dil Begerera,Individual User,46,2
+2023-05-01,Dil Begerera,Business,10,2
+2023-05-01,Dil Begerera,Telebirr Adopter,15,0
+2023-05-01,Fana Womba,Individual User,58,6
+2023-05-01,Fana Womba,Business,13,4
+2023-05-01,Fana Womba,Telebirr Adopter,14,1
+2023-05-01,Larena Amba,Individual User,24,5
+2023-05-01,Larena Amba,Business,7,1
+2023-05-01,Larena Amba,Telebirr Adopter,10,0
+2023-05-01,Mehal Amba,Individual User,44,2
+2023-05-01,Mehal Amba,Business,8,5
+2023-05-01,Mehal Amba,Telebirr Adopter,13,5
+2023-05-01,Merkato Yushuwa,Individual User,53,2
+2023-05-01,Merkato Yushuwa,Business,10,1
+2023-05-01,Merkato Yushuwa,Telebirr Adopter,16,0
+2023-05-01,Wadu Amba,Individual User,58,2
+2023-05-01,Wadu Amba,Business,12,2
+2023-05-01,Wadu Amba,Telebirr Adopter,19,0
+2023-05-01,Sodo-Kore,Individual User,25,5
+2023-05-01,Sodo-Kore,Business,6,1
+2023-05-01,Sodo-Kore,Telebirr Adopter,8,2
+2023-05-01,Bale-Wogene,Individual User,21,6
+2023-05-01,Bale-Wogene,Business,5,3
+2023-05-01,Bale-Wogene,Telebirr Adopter,9,1
+2023-05-01,Hembecho,Individual User,25,5
+2023-05-01,Hembecho,Business,6,1
+2023-05-01,Hembecho,Telebirr Adopter,11,5
+2023-05-01,Shanto,Individual User,25,5
+2023-05-01,Shanto,Business,6,4
+2023-05-01,Shanto,Telebirr Adopter,8,3
+2023-05-01,Dubbo,Individual User,11,1
+2023-05-01,Dubbo,Business,2,3
+2023-05-01,Dubbo,Telebirr Adopter,3,3
+2023-05-01,Ocholo,Individual User,20,2
+2023-05-01,Ocholo,Business,5,0
+2023-05-01,Ocholo,Telebirr Adopter,6,0
+2023-05-01,Gesuba,Individual User,16,5
+2023-05-01,Gesuba,Business,5,3
+2023-05-01,Gesuba,Telebirr Adopter,3,2
+2023-05-01,Humbo-Aba,Individual User,34,4
+2023-05-01,Humbo-Aba,Business,5,3
+2023-05-01,Humbo-Aba,Telebirr Adopter,8,3
+2023-06-01,Arada,Individual User,53,7
+2023-06-01,Arada,Business,11,0
+2023-06-01,Arada,Telebirr Adopter,11,5
+2023-06-01,Dil Begerera,Individual User,39,6
+2023-06-01,Dil Begerera,Business,12,5
+2023-06-01,Dil Begerera,Telebirr Adopter,12,0
+2023-06-01,Fana Womba,Individual User,57,2
+2023-06-01,Fana Womba,Business,14,3
+2023-06-01,Fana Womba,Telebirr Adopter,15,5
+2023-06-01,Larena Amba,Individual User,42,4
+2023-06-01,Larena Amba,Business,8,0
+2023-06-01,Larena Amba,Telebirr Adopter,6,1
+2023-06-01,Mehal Amba,Individual User,45,3
+2023-06-01,Mehal Amba,Business,9,1
+2023-06-01,Mehal Amba,Telebirr Adopter,15,4
+2023-06-01,Merkato Yushuwa,Individual User,45,5
+2023-06-01,Merkato Yushuwa,Business,12,1
+2023-06-01,Merkato Yushuwa,Telebirr Adopter,17,3
+2023-06-01,Wadu Amba,Individual User,67,3
+2023-06-01,Wadu Amba,Business,12,2
+2023-06-01,Wadu Amba,Telebirr Adopter,17,3
+2023-06-01,Sodo-Kore,Individual User,22,2
+2023-06-01,Sodo-Kore,Business,5,0
+2023-06-01,Sodo-Kore,Telebirr Adopter,9,3
+2023-06-01,Bale-Wogene,Individual User,29,5
+2023-06-01,Bale-Wogene,Business,5,0
+2023-06-01,Bale-Wogene,Telebirr Adopter,9,0
+2023-06-01,Hembecho,Individual User,32,6
+2023-06-01,Hembecho,Business,7,4
+2023-06-01,Hembecho,Telebirr Adopter,5,0
+2023-06-01,Shanto,Individual User,22,1
+2023-06-01,Shanto,Business,7,1
+2023-06-01,Shanto,Telebirr Adopter,6,1
+2023-06-01,Dubbo,Individual User,11,3
+2023-06-01,Dubbo,Business,2,3
+2023-06-01,Dubbo,Telebirr Adopter,2,3
+2023-06-01,Ocholo,Individual User,23,2
+2023-06-01,Ocholo,Business,2,3
+2023-06-01,Ocholo,Telebirr Adopter,6,0
+2023-06-01,Gesuba,Individual User,16,1
+2023-06-01,Gesuba,Business,3,3
+2023-06-01,Gesuba,Telebirr Adopter,6,0
+2023-06-01,Humbo-Aba,Individual User,24,4
+2023-06-01,Humbo-Aba,Business,7,2
+2023-06-01,Humbo-Aba,Telebirr Adopter,10,3
+2023-07-01,Arada,Individual User,54,4
+2023-07-01,Arada,Business,8,3
+2023-07-01,Arada,Telebirr Adopter,19,5
+2023-07-01,Dil Begerera,Individual User,43,7
+2023-07-01,Dil Begerera,Business,9,4
+2023-07-01,Dil Begerera,Telebirr Adopter,17,5
+2023-07-01,Fana Womba,Individual User,56,7
+2023-07-01,Fana Womba,Business,12,3
+2023-07-01,Fana Womba,Telebirr Adopter,20,1
+2023-07-01,Larena Amba,Individual User,29,2
+2023-07-01,Larena Amba,Business,7,2
+2023-07-01,Larena Amba,Telebirr Adopter,12,1
+2023-07-01,Mehal Amba,Individual User,53,2
+2023-07-01,Mehal Amba,Business,8,4
+2023-07-01,Mehal Amba,Telebirr Adopter,21,6
+2023-07-01,Merkato Yushuwa,Individual User,35,5
+2023-07-01,Merkato Yushuwa,Business,12,0
+2023-07-01,Merkato Yushuwa,Telebirr Adopter,20,5
+2023-07-01,Wadu Amba,Individual User,60,4
+2023-07-01,Wadu Amba,Business,13,0
+2023-07-01,Wadu Amba,Telebirr Adopter,21,0
+2023-07-01,Sodo-Kore,Individual User,21,5
+2023-07-01,Sodo-Kore,Business,5,3
+2023-07-01,Sodo-Kore,Telebirr Adopter,9,4
+2023-07-01,Bale-Wogene,Individual User,28,5
+2023-07-01,Bale-Wogene,Business,6,1
+2023-07-01,Bale-Wogene,Telebirr Adopter,11,0
+2023-07-01,Hembecho,Individual User,25,5
+2023-07-01,Hembecho,Business,6,0
+2023-07-01,Hembecho,Telebirr Adopter,9,1
+2023-07-01,Shanto,Individual User,20,1
+2023-07-01,Shanto,Business,5,4
+2023-07-01,Shanto,Telebirr Adopter,9,0
+2023-07-01,Dubbo,Individual User,11,5
+2023-07-01,Dubbo,Business,2,1
+2023-07-01,Dubbo,Telebirr Adopter,3,3
+2023-07-01,Ocholo,Individual User,27,1
+2023-07-01,Ocholo,Business,5,4
+2023-07-01,Ocholo,Telebirr Adopter,9,1
+2023-07-01,Gesuba,Individual User,16,4
+2023-07-01,Gesuba,Business,4,4
+2023-07-01,Gesuba,Telebirr Adopter,7,0
+2023-07-01,Humbo-Aba,Individual User,34,5
+2023-07-01,Humbo-Aba,Business,8,0
+2023-07-01,Humbo-Aba,Telebirr Adopter,13,3
+2023-08-01,Arada,Individual User,41,6
+2023-08-01,Arada,Business,11,4
+2023-08-01,Arada,Telebirr Adopter,14,4
+2023-08-01,Dil Begerera,Individual User,42,6
+2023-08-01,Dil Begerera,Business,10,2
+2023-08-01,Dil Begerera,Telebirr Adopter,15,2
+2023-08-01,Fana Womba,Individual User,55,3
+2023-08-01,Fana Womba,Business,11,5
+2023-08-01,Fana Womba,Telebirr Adopter,25,6
+2023-08-01,Larena Amba,Individual User,24,3
+2023-08-01,Larena Amba,Business,5,1
+2023-08-01,Larena Amba,Telebirr Adopter,12,2
+2023-08-01,Mehal Amba,Individual User,45,5
+2023-08-01,Mehal Amba,Business,11,1
+2023-08-01,Mehal Amba,Telebirr Adopter,16,5
+2023-08-01,Merkato Yushuwa,Individual User,47,7
+2023-08-01,Merkato Yushuwa,Business,10,2
+2023-08-01,Merkato Yushuwa,Telebirr Adopter,18,3
+2023-08-01,Wadu Amba,Individual User,49,4
+2023-08-01,Wadu Amba,Business,15,0
+2023-08-01,Wadu Amba,Telebirr Adopter,20,0
+2023-08-01,Sodo-Kore,Individual User,19,3
+2023-08-01,Sodo-Kore,Business,5,4
+2023-08-01,Sodo-Kore,Telebirr Adopter,8,4
+2023-08-01,Bale-Wogene,Individual User,23,1
+2023-08-01,Bale-Wogene,Business,5,0
+2023-08-01,Bale-Wogene,Telebirr Adopter,9,4
+2023-08-01,Hembecho,Individual User,23,2
+2023-08-01,Hembecho,Business,5,4
+2023-08-01,Hembecho,Telebirr Adopter,7,2
+2023-08-01,Shanto,Individual User,23,2
+2023-08-01,Shanto,Business,4,2
+2023-08-01,Shanto,Telebirr Adopter,6,0
+2023-08-01,Dubbo,Individual User,8,1
+2023-08-01,Dubbo,Business,2,2
+2023-08-01,Dubbo,Telebirr Adopter,3,2
+2023-08-01,Ocholo,Individual User,26,2
+2023-08-01,Ocholo,Business,6,3
+2023-08-01,Ocholo,Telebirr Adopter,7,4
+2023-08-01,Gesuba,Individual User,15,5
+2023-08-01,Gesuba,Business,3,2
+2023-08-01,Gesuba,Telebirr Adopter,5,4
+2023-08-01,Humbo-Aba,Individual User,27,6
+2023-08-01,Humbo-Aba,Business,7,4
+2023-08-01,Humbo-Aba,Telebirr Adopter,9,0
+2023-09-01,Arada,Individual User,41,6
+2023-09-01,Arada,Business,11,4
+2023-09-01,Arada,Telebirr Adopter,14,2
+2023-09-01,Dil Begerera,Individual User,39,6
+2023-09-01,Dil Begerera,Business,10,0
+2023-09-01,Dil Begerera,Telebirr Adopter,13,1
+2023-09-01,Fana Womba,Individual User,48,3
+2023-09-01,Fana Womba,Business,11,0
+2023-09-01,Fana Womba,Telebirr Adopter,17,0
+2023-09-01,Larena Amba,Individual User,23,6
+2023-09-01,Larena Amba,Business,6,4
+2023-09-01,Larena Amba,Telebirr Adopter,10,1
+2023-09-01,Mehal Amba,Individual User,44,4
+2023-09-01,Mehal Amba,Business,10,2
+2023-09-01,Mehal Amba,Telebirr Adopter,18,4
+2023-09-01,Merkato Yushuwa,Individual User,38,2
+2023-09-01,Merkato Yushuwa,Business,12,5
+2023-09-01,Merkato Yushuwa,Telebirr Adopter,16,2
+2023-09-01,Wadu Amba,Individual User,65,3
+2023-09-01,Wadu Amba,Business,10,5
+2023-09-01,Wadu Amba,Telebirr Adopter,16,5
+2023-09-01,Sodo-Kore,Individual User,17,2
+2023-09-01,Sodo-Kore,Business,3,4
+2023-09-01,Sodo-Kore,Telebirr Adopter,6,3
+2023-09-01,Bale-Wogene,Individual User,20,2
+2023-09-01,Bale-Wogene,Business,5,0
+2023-09-01,Bale-Wogene,Telebirr Adopter,9,0
+2023-09-01,Hembecho,Individual User,26,6
+2023-09-01,Hembecho,Business,5,3
+2023-09-01,Hembecho,Telebirr Adopter,7,2
+2023-09-01,Shanto,Individual User,17,0
+2023-09-01,Shanto,Business,5,0
+2023-09-01,Shanto,Telebirr Adopter,6,2
+2023-09-01,Dubbo,Individual User,11,1
+2023-09-01,Dubbo,Business,2,5
+2023-09-01,Dubbo,Telebirr Adopter,3,2
+2023-09-01,Ocholo,Individual User,14,1
+2023-09-01,Ocholo,Business,5,5
+2023-09-01,Ocholo,Telebirr Adopter,7,3
+2023-09-01,Gesuba,Individual User,16,4
+2023-09-01,Gesuba,Business,2,5
+2023-09-01,Gesuba,Telebirr Adopter,4,3
+2023-09-01,Humbo-Aba,Individual User,26,5
+2023-09-01,Humbo-Aba,Business,6,0
+2023-09-01,Humbo-Aba,Telebirr Adopter,9,0
+2023-10-01,Arada,Individual User,37,1
+2023-10-01,Arada,Business,7,5
+2023-10-01,Arada,Telebirr Adopter,12,1
+2023-10-01,Dil Begerera,Individual User,34,5
+2023-10-01,Dil Begerera,Business,9,0
+2023-10-01,Dil Begerera,Telebirr Adopter,13,2
+2023-10-01,Fana Womba,Individual User,34,5
+2023-10-01,Fana Womba,Business,8,4
+2023-10-01,Fana Womba,Telebirr Adopter,18,1
+2023-10-01,Larena Amba,Individual User,25,4
+2023-10-01,Larena Amba,Business,5,1
+2023-10-01,Larena Amba,Telebirr Adopter,11,0
+2023-10-01,Mehal Amba,Individual User,33,3
+2023-10-01,Mehal Amba,Business,9,2
+2023-10-01,Mehal Amba,Telebirr Adopter,12,0
+2023-10-01,Merkato Yushuwa,Individual User,50,4
+2023-10-01,Merkato Yushuwa,Business,12,1
+2023-10-01,Merkato Yushuwa,Telebirr Adopter,14,5
+2023-10-01,Wadu Amba,Individual User,51,3
+2023-10-01,Wadu Amba,Business,12,5
+2023-10-01,Wadu Amba,Telebirr Adopter,20,0
+2023-10-01,Sodo-Kore,Individual User,15,2
+2023-10-01,Sodo-Kore,Business,4,4
+2023-10-01,Sodo-Kore,Telebirr Adopter,7,3
+2023-10-01,Bale-Wogene,Individual User,15,4
+2023-10-01,Bale-Wogene,Business,4,5
+2023-10-01,Bale-Wogene,Telebirr Adopter,5,1
+2023-10-01,Hembecho,Individual User,17,1
+2023-10-01,Hembecho,Business,5,1
+2023-10-01,Hembecho,Telebirr Adopter,8,1
+2023-10-01,Shanto,Individual User,18,3
+2023-10-01,Shanto,Business,5,0
+2023-10-01,Shanto,Telebirr Adopter,5,1
+2023-10-01,Dubbo,Individual User,5,5
+2023-10-01,Dubbo,Business,1,2
+2023-10-01,Dubbo,Telebirr Adopter,3,3
+2023-10-01,Ocholo,Individual User,17,5
+2023-10-01,Ocholo,Business,3,5
+2023-10-01,Ocholo,Telebirr Adopter,6,1
+2023-10-01,Gesuba,Individual User,10,2
+2023-10-01,Gesuba,Business,3,1
+2023-10-01,Gesuba,Telebirr Adopter,5,5
+2023-10-01,Humbo-Aba,Individual User,20,0
+2023-10-01,Humbo-Aba,Business,5,3
+2023-10-01,Humbo-Aba,Telebirr Adopter,7,0
+2023-11-01,Arada,Individual User,31,4
+2023-11-01,Arada,Business,8,1
+2023-11-01,Arada,Telebirr Adopter,10,1
+2023-11-01,Dil Begerera,Individual User,33,4
+2023-11-01,Dil Begerera,Business,7,2
+2023-11-01,Dil Begerera,Telebirr Adopter,10,2
+2023-11-01,Fana Womba,Individual User,37,2
+2023-11-01,Fana Womba,Business,8,1
+2023-11-01,Fana Womba,Telebirr Adopter,13,0
+2023-11-01,Larena Amba,Individual User,17,5
+2023-11-01,Larena Amba,Business,7,1
+2023-11-01,Larena Amba,Telebirr Adopter,8,3
+2023-11-01,Mehal Amba,Individual User,27,3
+2023-11-01,Mehal Amba,Business,7,2
+2023-11-01,Mehal Amba,Telebirr Adopter,11,0
+2023-11-01,Merkato Yushuwa,Individual User,34,3
+2023-11-01,Merkato Yushuwa,Business,9,2
+2023-11-01,Merkato Yushuwa,Telebirr Adopter,14,5
+2023-11-01,Wadu Amba,Individual User,37,5
+2023-11-01,Wadu Amba,Business,9,3
+2023-11-01,Wadu Amba,Telebirr Adopter,14,5
+2023-11-01,Sodo-Kore,Individual User,10,4
+2023-11-01,Sodo-Kore,Business,3,2
+2023-11-01,Sodo-Kore,Telebirr Adopter,7,0
+2023-11-01,Bale-Wogene,Individual User,23,1
+2023-11-01,Bale-Wogene,Business,4,2
+2023-11-01,Bale-Wogene,Telebirr Adopter,7,1
+2023-11-01,Hembecho,Individual User,17,4
+2023-11-01,Hembecho,Business,6,2
+2023-11-01,Hembecho,Telebirr Adopter,7,0
+2023-11-01,Shanto,Individual User,16,0
+2023-11-01,Shanto,Business,3,4
+2023-11-01,Shanto,Telebirr Adopter,4,3
+2023-11-01,Dubbo,Individual User,7,2
+2023-11-01,Dubbo,Business,1,5
+2023-11-01,Dubbo,Telebirr Adopter,2,2
+2023-11-01,Ocholo,Individual User,14,3
+2023-11-01,Ocholo,Business,3,4
+2023-11-01,Ocholo,Telebirr Adopter,7,4
+2023-11-01,Gesuba,Individual User,13,0
+2023-11-01,Gesuba,Business,2,3
+2023-11-01,Gesuba,Telebirr Adopter,5,4
+2023-11-01,Humbo-Aba,Individual User,22,2
+2023-11-01,Humbo-Aba,Business,4,2
+2023-11-01,Humbo-Aba,Telebirr Adopter,10,0
+2023-12-01,Arada,Individual User,32,6
+2023-12-01,Arada,Business,6,3
+2023-12-01,Arada,Telebirr Adopter,11,0
+2023-12-01,Dil Begerera,Individual User,25,5
+2023-12-01,Dil Begerera,Business,5,4
+2023-12-01,Dil Begerera,Telebirr Adopter,12,5
+2023-12-01,Fana Womba,Individual User,48,6
+2023-12-01,Fana Womba,Business,7,5
+2023-12-01,Fana Womba,Telebirr Adopter,15,5
+2023-12-01,Larena Amba,Individual User,19,5
+2023-12-01,Larena Amba,Business,4,1
+2023-12-01,Larena Amba,Telebirr Adopter,7,2
+2023-12-01,Mehal Amba,Individual User,25,4
+2023-12-01,Mehal Amba,Business,7,0
+2023-12-01,Mehal Amba,Telebirr Adopter,9,5
+2023-12-01,Merkato Yushuwa,Individual User,35,3
+2023-12-01,Merkato Yushuwa,Business,8,4
+2023-12-01,Merkato Yushuwa,Telebirr Adopter,12,2
+2023-12-01,Wadu Amba,Individual User,34,6
+2023-12-01,Wadu Amba,Business,9,0
+2023-12-01,Wadu Amba,Telebirr Adopter,16,5
+2023-12-01,Sodo-Kore,Individual User,16,2
+2023-12-01,Sodo-Kore,Business,3,4
+2023-12-01,Sodo-Kore,Telebirr Adopter,6,2
+2023-12-01,Bale-Wogene,Individual User,20,5
+2023-12-01,Bale-Wogene,Business,3,3
+2023-12-01,Bale-Wogene,Telebirr Adopter,7,2
+2023-12-01,Hembecho,Individual User,14,3
+2023-12-01,Hembecho,Business,4,5
+2023-12-01,Hembecho,Telebirr Adopter,5,2
+2023-12-01,Shanto,Individual User,11,4
+2023-12-01,Shanto,Business,3,1
+2023-12-01,Shanto,Telebirr Adopter,6,1
+2023-12-01,Dubbo,Individual User,7,3
+2023-12-01,Dubbo,Business,1,5
+2023-12-01,Dubbo,Telebirr Adopter,2,3
+2023-12-01,Ocholo,Individual User,11,5
+2023-12-01,Ocholo,Business,3,5
+2023-12-01,Ocholo,Telebirr Adopter,4,1
+2023-12-01,Gesuba,Individual User,10,4
+2023-12-01,Gesuba,Business,2,4
+2023-12-01,Gesuba,Telebirr Adopter,3,2
+2023-12-01,Humbo-Aba,Individual User,19,3
+2023-12-01,Humbo-Aba,Business,6,4
+2023-12-01,Humbo-Aba,Telebirr Adopter,7,0
+2024-01-01,Arada,Individual User,44,4
+2024-01-01,Arada,Business,8,2
+2024-01-01,Arada,Telebirr Adopter,23,2
+2024-01-01,Dil Begerera,Individual User,46,5
+2024-01-01,Dil Begerera,Business,6,4
+2024-01-01,Dil Begerera,Telebirr Adopter,19,4
+2024-01-01,Fana Womba,Individual User,52,7
+2024-01-01,Fana Womba,Business,11,2
+2024-01-01,Fana Womba,Telebirr Adopter,28,4
+2024-01-01,Larena Amba,Individual User,24,4
+2024-01-01,Larena Amba,Business,6,3
+2024-01-01,Larena Amba,Telebirr Adopter,15,5
+2024-01-01,Mehal Amba,Individual User,44,3
+2024-01-01,Mehal Amba,Business,9,4
+2024-01-01,Mehal Amba,Telebirr Adopter,22,4
+2024-01-01,Merkato Yushuwa,Individual User,41,6
+2024-01-01,Merkato Yushuwa,Business,10,1
+2024-01-01,Merkato Yushuwa,Telebirr Adopter,23,6
+2024-01-01,Wadu Amba,Individual User,54,2
+2024-01-01,Wadu Amba,Business,12,2
+2024-01-01,Wadu Amba,Telebirr Adopter,30,5
+2024-01-01,Sodo-Kore,Individual User,26,6
+2024-01-01,Sodo-Kore,Business,5,5
+2024-01-01,Sodo-Kore,Telebirr Adopter,10,4
+2024-01-01,Bale-Wogene,Individual User,27,3
+2024-01-01,Bale-Wogene,Business,5,0
+2024-01-01,Bale-Wogene,Telebirr Adopter,9,1
+2024-01-01,Hembecho,Individual User,17,5
+2024-01-01,Hembecho,Business,3,2
+2024-01-01,Hembecho,Telebirr Adopter,11,1
+2024-01-01,Shanto,Individual User,20,2
+2024-01-01,Shanto,Business,6,1
+2024-01-01,Shanto,Telebirr Adopter,12,0
+2024-01-01,Dubbo,Individual User,8,0
+2024-01-01,Dubbo,Business,2,1
+2024-01-01,Dubbo,Telebirr Adopter,3,3
+2024-01-01,Ocholo,Individual User,20,5
+2024-01-01,Ocholo,Business,5,0
+2024-01-01,Ocholo,Telebirr Adopter,8,3
+2024-01-01,Gesuba,Individual User,17,3
+2024-01-01,Gesuba,Business,3,5
+2024-01-01,Gesuba,Telebirr Adopter,7,4
+2024-01-01,Humbo-Aba,Individual User,29,2
+2024-01-01,Humbo-Aba,Business,9,5
+2024-01-01,Humbo-Aba,Telebirr Adopter,15,5
+2024-02-01,Arada,Individual User,44,5
+2024-02-01,Arada,Business,9,3
+2024-02-01,Arada,Telebirr Adopter,21,3
+2024-02-01,Dil Begerera,Individual User,46,3
+2024-02-01,Dil Begerera,Business,9,1
+2024-02-01,Dil Begerera,Telebirr Adopter,23,6
+2024-02-01,Fana Womba,Individual User,48,6
+2024-02-01,Fana Womba,Business,14,0
+2024-02-01,Fana Womba,Telebirr Adopter,30,1
+2024-02-01,Larena Amba,Individual User,34,4
+2024-02-01,Larena Amba,Business,6,1
+2024-02-01,Larena Amba,Telebirr Adopter,16,1
+2024-02-01,Mehal Amba,Individual User,35,6
+2024-02-01,Mehal Amba,Business,9,4
+2024-02-01,Mehal Amba,Telebirr Adopter,24,4
+2024-02-01,Merkato Yushuwa,Individual User,54,2
+2024-02-01,Merkato Yushuwa,Business,10,4
+2024-02-01,Merkato Yushuwa,Telebirr Adopter,30,2
+2024-02-01,Wadu Amba,Individual User,67,2
+2024-02-01,Wadu Amba,Business,14,3
+2024-02-01,Wadu Amba,Telebirr Adopter,40,2
+2024-02-01,Sodo-Kore,Individual User,19,3
+2024-02-01,Sodo-Kore,Business,4,5
+2024-02-01,Sodo-Kore,Telebirr Adopter,9,4
+2024-02-01,Bale-Wogene,Individual User,31,5
+2024-02-01,Bale-Wogene,Business,7,4
+2024-02-01,Bale-Wogene,Telebirr Adopter,14,2
+2024-02-01,Hembecho,Individual User,24,4
+2024-02-01,Hembecho,Business,4,4
+2024-02-01,Hembecho,Telebirr Adopter,17,5
+2024-02-01,Shanto,Individual User,23,5
+2024-02-01,Shanto,Business,5,3
+2024-02-01,Shanto,Telebirr Adopter,14,4
+2024-02-01,Dubbo,Individual User,10,3
+2024-02-01,Dubbo,Business,2,1
+2024-02-01,Dubbo,Telebirr Adopter,4,5
+2024-02-01,Ocholo,Individual User,23,4
+2024-02-01,Ocholo,Business,7,3
+2024-02-01,Ocholo,Telebirr Adopter,14,2
+2024-02-01,Gesuba,Individual User,19,2
+2024-02-01,Gesuba,Business,3,5
+2024-02-01,Gesuba,Telebirr Adopter,7,2
+2024-02-01,Humbo-Aba,Individual User,29,5
+2024-02-01,Humbo-Aba,Business,7,3
+2024-02-01,Humbo-Aba,Telebirr Adopter,19,5
+2024-03-01,Arada,Individual User,35,2
+2024-03-01,Arada,Business,14,2
+2024-03-01,Arada,Telebirr Adopter,26,4
+2024-03-01,Dil Begerera,Individual User,43,2
+2024-03-01,Dil Begerera,Business,9,5
+2024-03-01,Dil Begerera,Telebirr Adopter,19,2
+2024-03-01,Fana Womba,Individual User,65,3
+2024-03-01,Fana Womba,Business,14,2
+2024-03-01,Fana Womba,Telebirr Adopter,26,3
+2024-03-01,Larena Amba,Individual User,26,3
+2024-03-01,Larena Amba,Business,7,4
+2024-03-01,Larena Amba,Telebirr Adopter,23,1
+2024-03-01,Mehal Amba,Individual User,44,3
+2024-03-01,Mehal Amba,Business,8,1
+2024-03-01,Mehal Amba,Telebirr Adopter,24,2
+2024-03-01,Merkato Yushuwa,Individual User,51,5
+2024-03-01,Merkato Yushuwa,Business,8,5
+2024-03-01,Merkato Yushuwa,Telebirr Adopter,30,2
+2024-03-01,Wadu Amba,Individual User,59,7
+2024-03-01,Wadu Amba,Business,17,1
+2024-03-01,Wadu Amba,Telebirr Adopter,44,1
+2024-03-01,Sodo-Kore,Individual User,28,4
+2024-03-01,Sodo-Kore,Business,5,3
+2024-03-01,Sodo-Kore,Telebirr Adopter,11,2
+2024-03-01,Bale-Wogene,Individual User,39,5
+2024-03-01,Bale-Wogene,Business,7,3
+2024-03-01,Bale-Wogene,Telebirr Adopter,16,3
+2024-03-01,Hembecho,Individual User,25,1
+2024-03-01,Hembecho,Business,6,1
+2024-03-01,Hembecho,Telebirr Adopter,14,3
+2024-03-01,Shanto,Individual User,23,4
+2024-03-01,Shanto,Business,5,4
+2024-03-01,Shanto,Telebirr Adopter,14,5
+2024-03-01,Dubbo,Individual User,10,0
+2024-03-01,Dubbo,Business,2,4
+2024-03-01,Dubbo,Telebirr Adopter,6,3
+2024-03-01,Ocholo,Individual User,23,4
+2024-03-01,Ocholo,Business,7,0
+2024-03-01,Ocholo,Telebirr Adopter,8,2
+2024-03-01,Gesuba,Individual User,20,3
+2024-03-01,Gesuba,Business,5,3
+2024-03-01,Gesuba,Telebirr Adopter,6,3
+2024-03-01,Humbo-Aba,Individual User,31,5
+2024-03-01,Humbo-Aba,Business,7,5
+2024-03-01,Humbo-Aba,Telebirr Adopter,14,5
+2024-04-01,Arada,Individual User,46,6
+2024-04-01,Arada,Business,10,4
+2024-04-01,Arada,Telebirr Adopter,37,2
+2024-04-01,Dil Begerera,Individual User,58,5
+2024-04-01,Dil Begerera,Business,15,1
+2024-04-01,Dil Begerera,Telebirr Adopter,31,3
+2024-04-01,Fana Womba,Individual User,53,5
+2024-04-01,Fana Womba,Business,14,3
+2024-04-01,Fana Womba,Telebirr Adopter,38,1
+2024-04-01,Larena Amba,Individual User,29,4
+2024-04-01,Larena Amba,Business,10,2
+2024-04-01,Larena Amba,Telebirr Adopter,19,5
+2024-04-01,Mehal Amba,Individual User,47,7
+2024-04-01,Mehal Amba,Business,13,3
+2024-04-01,Mehal Amba,Telebirr Adopter,30,6
+2024-04-01,Merkato Yushuwa,Individual User,56,3
+2024-04-01,Merkato Yushuwa,Business,17,3
+2024-04-01,Merkato Yushuwa,Telebirr Adopter,27,2
+2024-04-01,Wadu Amba,Individual User,74,7
+2024-04-01,Wadu Amba,Business,18,4
+2024-04-01,Wadu Amba,Telebirr Adopter,36,1
+2024-04-01,Sodo-Kore,Individual User,28,4
+2024-04-01,Sodo-Kore,Business,5,4
+2024-04-01,Sodo-Kore,Telebirr Adopter,17,4
+2024-04-01,Bale-Wogene,Individual User,30,6
+2024-04-01,Bale-Wogene,Business,7,0
+2024-04-01,Bale-Wogene,Telebirr Adopter,20,0
+2024-04-01,Hembecho,Individual User,25,6
+2024-04-01,Hembecho,Business,5,3
+2024-04-01,Hembecho,Telebirr Adopter,12,1
+2024-04-01,Shanto,Individual User,30,4
+2024-04-01,Shanto,Business,5,1
+2024-04-01,Shanto,Telebirr Adopter,19,1
+2024-04-01,Dubbo,Individual User,8,2
+2024-04-01,Dubbo,Business,3,3
+2024-04-01,Dubbo,Telebirr Adopter,6,2
+2024-04-01,Ocholo,Individual User,26,2
+2024-04-01,Ocholo,Business,6,3
+2024-04-01,Ocholo,Telebirr Adopter,15,2
+2024-04-01,Gesuba,Individual User,19,3
+2024-04-01,Gesuba,Business,5,3
+2024-04-01,Gesuba,Telebirr Adopter,11,2
+2024-04-01,Humbo-Aba,Individual User,37,4
+2024-04-01,Humbo-Aba,Business,8,2
+2024-04-01,Humbo-Aba,Telebirr Adopter,20,0
+2024-05-01,Arada,Individual User,58,5
+2024-05-01,Arada,Business,10,0
+2024-05-01,Arada,Telebirr Adopter,25,6
+2024-05-01,Dil Begerera,Individual User,60,6
+2024-05-01,Dil Begerera,Business,13,0
+2024-05-01,Dil Begerera,Telebirr Adopter,29,3
+2024-05-01,Fana Womba,Individual User,68,3
+2024-05-01,Fana Womba,Business,17,5
+2024-05-01,Fana Womba,Telebirr Adopter,35,1
+2024-05-01,Larena Amba,Individual User,34,6
+2024-05-01,Larena Amba,Business,10,0
+2024-05-01,Larena Amba,Telebirr Adopter,18,0
+2024-05-01,Mehal Amba,Individual User,57,3
+2024-05-01,Mehal Amba,Business,10,1
+2024-05-01,Mehal Amba,Telebirr Adopter,35,1
+2024-05-01,Merkato Yushuwa,Individual User,67,7
+2024-05-01,Merkato Yushuwa,Business,16,1
+2024-05-01,Merkato Yushuwa,Telebirr Adopter,40,2
+2024-05-01,Wadu Amba,Individual User,90,4
+2024-05-01,Wadu Amba,Business,20,3
+2024-05-01,Wadu Amba,Telebirr Adopter,29,6
+2024-05-01,Sodo-Kore,Individual User,23,1
+2024-05-01,Sodo-Kore,Business,6,4
+2024-05-01,Sodo-Kore,Telebirr Adopter,16,1
+2024-05-01,Bale-Wogene,Individual User,36,4
+2024-05-01,Bale-Wogene,Business,7,5
+2024-05-01,Bale-Wogene,Telebirr Adopter,19,2
+2024-05-01,Hembecho,Individual User,26,3
+2024-05-01,Hembecho,Business,6,1
+2024-05-01,Hembecho,Telebirr Adopter,13,4
+2024-05-01,Shanto,Individual User,25,5
+2024-05-01,Shanto,Business,5,5
+2024-05-01,Shanto,Telebirr Adopter,14,5
+2024-05-01,Dubbo,Individual User,14,0
+2024-05-01,Dubbo,Business,2,1
+2024-05-01,Dubbo,Telebirr Adopter,10,2
+2024-05-01,Ocholo,Individual User,30,1
+2024-05-01,Ocholo,Business,7,4
+2024-05-01,Ocholo,Telebirr Adopter,13,0
+2024-05-01,Gesuba,Individual User,23,3
+2024-05-01,Gesuba,Business,4,4
+2024-05-01,Gesuba,Telebirr Adopter,11,5
+2024-05-01,Humbo-Aba,Individual User,53,5
+2024-05-01,Humbo-Aba,Business,9,3
+2024-05-01,Humbo-Aba,Telebirr Adopter,25,6
+2024-06-01,Arada,Individual User,51,3
+2024-06-01,Arada,Business,14,0
+2024-06-01,Arada,Telebirr Adopter,40,5
+2024-06-01,Dil Begerera,Individual User,50,7
+2024-06-01,Dil Begerera,Business,17,5
+2024-06-01,Dil Begerera,Telebirr Adopter,34,2
+2024-06-01,Fana Womba,Individual User,64,2
+2024-06-01,Fana Womba,Business,19,5
+2024-06-01,Fana Womba,Telebirr Adopter,45,3
+2024-06-01,Larena Amba,Individual User,43,7
+2024-06-01,Larena Amba,Business,7,4
+2024-06-01,Larena Amba,Telebirr Adopter,19,0
+2024-06-01,Mehal Amba,Individual User,53,6
+2024-06-01,Mehal Amba,Business,13,0
+2024-06-01,Mehal Amba,Telebirr Adopter,33,3
+2024-06-01,Merkato Yushuwa,Individual User,66,6
+2024-06-01,Merkato Yushuwa,Business,12,3
+2024-06-01,Merkato Yushuwa,Telebirr Adopter,38,6
+2024-06-01,Wadu Amba,Individual User,81,5
+2024-06-01,Wadu Amba,Business,20,0
+2024-06-01,Wadu Amba,Telebirr Adopter,48,6
+2024-06-01,Sodo-Kore,Individual User,33,6
+2024-06-01,Sodo-Kore,Business,7,2
+2024-06-01,Sodo-Kore,Telebirr Adopter,16,0
+2024-06-01,Bale-Wogene,Individual User,25,4
+2024-06-01,Bale-Wogene,Business,9,3
+2024-06-01,Bale-Wogene,Telebirr Adopter,19,0
+2024-06-01,Hembecho,Individual User,32,4
+2024-06-01,Hembecho,Business,6,2
+2024-06-01,Hembecho,Telebirr Adopter,14,5
+2024-06-01,Shanto,Individual User,35,4
+2024-06-01,Shanto,Business,7,5
+2024-06-01,Shanto,Telebirr Adopter,18,1
+2024-06-01,Dubbo,Individual User,13,3
+2024-06-01,Dubbo,Business,3,1
+2024-06-01,Dubbo,Telebirr Adopter,8,5
+2024-06-01,Ocholo,Individual User,26,5
+2024-06-01,Ocholo,Business,7,5
+2024-06-01,Ocholo,Telebirr Adopter,15,2
+2024-06-01,Gesuba,Individual User,19,5
+2024-06-01,Gesuba,Business,5,4
+2024-06-01,Gesuba,Telebirr Adopter,12,3
+2024-06-01,Humbo-Aba,Individual User,36,4
+2024-06-01,Humbo-Aba,Business,11,3
+2024-06-01,Humbo-Aba,Telebirr Adopter,19,5
+2024-07-01,Arada,Individual User,54,6
+2024-07-01,Arada,Business,13,2
+2024-07-01,Arada,Telebirr Adopter,38,3
+2024-07-01,Dil Begerera,Individual User,56,3
+2024-07-01,Dil Begerera,Business,15,0
+2024-07-01,Dil Begerera,Telebirr Adopter,23,3
+2024-07-01,Fana Womba,Individual User,71,5
+2024-07-01,Fana Womba,Business,19,1
+2024-07-01,Fana Womba,Telebirr Adopter,38,4
+2024-07-01,Larena Amba,Individual User,45,6
+2024-07-01,Larena Amba,Business,8,4
+2024-07-01,Larena Amba,Telebirr Adopter,26,6
+2024-07-01,Mehal Amba,Individual User,72,6
+2024-07-01,Mehal Amba,Business,12,2
+2024-07-01,Mehal Amba,Telebirr Adopter,28,1
+2024-07-01,Merkato Yushuwa,Individual User,77,6
+2024-07-01,Merkato Yushuwa,Business,19,2
+2024-07-01,Merkato Yushuwa,Telebirr Adopter,32,2
+2024-07-01,Wadu Amba,Individual User,68,5
+2024-07-01,Wadu Amba,Business,17,1
+2024-07-01,Wadu Amba,Telebirr Adopter,32,3
+2024-07-01,Sodo-Kore,Individual User,24,3
+2024-07-01,Sodo-Kore,Business,6,2
+2024-07-01,Sodo-Kore,Telebirr Adopter,14,2
+2024-07-01,Bale-Wogene,Individual User,33,5
+2024-07-01,Bale-Wogene,Business,8,5
+2024-07-01,Bale-Wogene,Telebirr Adopter,23,3
+2024-07-01,Hembecho,Individual User,25,5
+2024-07-01,Hembecho,Business,8,0
+2024-07-01,Hembecho,Telebirr Adopter,16,4
+2024-07-01,Shanto,Individual User,29,2
+2024-07-01,Shanto,Business,8,0
+2024-07-01,Shanto,Telebirr Adopter,13,1
+2024-07-01,Dubbo,Individual User,13,5
+2024-07-01,Dubbo,Business,3,3
+2024-07-01,Dubbo,Telebirr Adopter,7,3
+2024-07-01,Ocholo,Individual User,29,5
+2024-07-01,Ocholo,Business,9,1
+2024-07-01,Ocholo,Telebirr Adopter,14,5
+2024-07-01,Gesuba,Individual User,19,4
+2024-07-01,Gesuba,Business,4,5
+2024-07-01,Gesuba,Telebirr Adopter,10,5
+2024-07-01,Humbo-Aba,Individual User,35,4
+2024-07-01,Humbo-Aba,Business,11,3
+2024-07-01,Humbo-Aba,Telebirr Adopter,26,1
+2024-08-01,Arada,Individual User,47,2
+2024-08-01,Arada,Business,11,2
+2024-08-01,Arada,Telebirr Adopter,31,2
+2024-08-01,Dil Begerera,Individual User,46,5
+2024-08-01,Dil Begerera,Business,13,5
+2024-08-01,Dil Begerera,Telebirr Adopter,29,2
+2024-08-01,Fana Womba,Individual User,49,4
+2024-08-01,Fana Womba,Business,19,5
+2024-08-01,Fana Womba,Telebirr Adopter,45,5
+2024-08-01,Larena Amba,Individual User,33,3
+2024-08-01,Larena Amba,Business,8,3
+2024-08-01,Larena Amba,Telebirr Adopter,21,5
+2024-08-01,Mehal Amba,Individual User,53,6
+2024-08-01,Mehal Amba,Business,13,2
+2024-08-01,Mehal Amba,Telebirr Adopter,37,4
+2024-08-01,Merkato Yushuwa,Individual User,57,7
+2024-08-01,Merkato Yushuwa,Business,13,4
+2024-08-01,Merkato Yushuwa,Telebirr Adopter,26,3
+2024-08-01,Wadu Amba,Individual User,60,4
+2024-08-01,Wadu Amba,Business,16,5
+2024-08-01,Wadu Amba,Telebirr Adopter,48,5
+2024-08-01,Sodo-Kore,Individual User,25,3
+2024-08-01,Sodo-Kore,Business,7,2
+2024-08-01,Sodo-Kore,Telebirr Adopter,15,2
+2024-08-01,Bale-Wogene,Individual User,37,2
+2024-08-01,Bale-Wogene,Business,10,0
+2024-08-01,Bale-Wogene,Telebirr Adopter,16,5
+2024-08-01,Hembecho,Individual User,26,2
+2024-08-01,Hembecho,Business,8,2
+2024-08-01,Hembecho,Telebirr Adopter,17,0
+2024-08-01,Shanto,Individual User,35,6
+2024-08-01,Shanto,Business,7,4
+2024-08-01,Shanto,Telebirr Adopter,14,5
+2024-08-01,Dubbo,Individual User,13,1
+2024-08-01,Dubbo,Business,3,1
+2024-08-01,Dubbo,Telebirr Adopter,7,1
+2024-08-01,Ocholo,Individual User,28,6
+2024-08-01,Ocholo,Business,7,3
+2024-08-01,Ocholo,Telebirr Adopter,17,2
+2024-08-01,Gesuba,Individual User,23,6
+2024-08-01,Gesuba,Business,5,4
+2024-08-01,Gesuba,Telebirr Adopter,10,4
+2024-08-01,Humbo-Aba,Individual User,37,5
+2024-08-01,Humbo-Aba,Business,10,2
+2024-08-01,Humbo-Aba,Telebirr Adopter,17,0
+2024-09-01,Arada,Individual User,50,3
+2024-09-01,Arada,Business,11,2
+2024-09-01,Arada,Telebirr Adopter,26,2
+2024-09-01,Dil Begerera,Individual User,55,4
+2024-09-01,Dil Begerera,Business,11,1
+2024-09-01,Dil Begerera,Telebirr Adopter,26,3
+2024-09-01,Fana Womba,Individual User,46,1
+2024-09-01,Fana Womba,Business,16,5
+2024-09-01,Fana Womba,Telebirr Adopter,35,5
+2024-09-01,Larena Amba,Individual User,43,3
+2024-09-01,Larena Amba,Business,7,2
+2024-09-01,Larena Amba,Telebirr Adopter,19,0
+2024-09-01,Mehal Amba,Individual User,47,2
+2024-09-01,Mehal Amba,Business,14,4
+2024-09-01,Mehal Amba,Telebirr Adopter,25,3
+2024-09-01,Merkato Yushuwa,Individual User,56,7
+2024-09-01,Merkato Yushuwa,Business,14,1
+2024-09-01,Merkato Yushuwa,Telebirr Adopter,31,6
+2024-09-01,Wadu Amba,Individual User,57,5
+2024-09-01,Wadu Amba,Business,15,0
+2024-09-01,Wadu Amba,Telebirr Adopter,40,1
+2024-09-01,Sodo-Kore,Individual User,20,5
+2024-09-01,Sodo-Kore,Business,6,2
+2024-09-01,Sodo-Kore,Telebirr Adopter,12,3
+2024-09-01,Bale-Wogene,Individual User,33,4
+2024-09-01,Bale-Wogene,Business,5,3
+2024-09-01,Bale-Wogene,Telebirr Adopter,14,2
+2024-09-01,Hembecho,Individual User,27,2
+2024-09-01,Hembecho,Business,7,0
+2024-09-01,Hembecho,Telebirr Adopter,14,2
+2024-09-01,Shanto,Individual User,23,4
+2024-09-01,Shanto,Business,8,0
+2024-09-01,Shanto,Telebirr Adopter,11,0
+2024-09-01,Dubbo,Individual User,7,3
+2024-09-01,Dubbo,Business,2,3
+2024-09-01,Dubbo,Telebirr Adopter,5,0
+2024-09-01,Ocholo,Individual User,20,5
+2024-09-01,Ocholo,Business,6,5
+2024-09-01,Ocholo,Telebirr Adopter,14,5
+2024-09-01,Gesuba,Individual User,16,0
+2024-09-01,Gesuba,Business,3,1
+2024-09-01,Gesuba,Telebirr Adopter,11,1
+2024-09-01,Humbo-Aba,Individual User,36,5
+2024-09-01,Humbo-Aba,Business,8,2
+2024-09-01,Humbo-Aba,Telebirr Adopter,23,1
+2024-10-01,Arada,Individual User,35,2
+2024-10-01,Arada,Business,8,0
+2024-10-01,Arada,Telebirr Adopter,21,4
+2024-10-01,Dil Begerera,Individual User,41,4
+2024-10-01,Dil Begerera,Business,10,4
+2024-10-01,Dil Begerera,Telebirr Adopter,22,5
+2024-10-01,Fana Womba,Individual User,55,6
+2024-10-01,Fana Womba,Business,10,1
+2024-10-01,Fana Womba,Telebirr Adopter,35,5
+2024-10-01,Larena Amba,Individual User,29,4
+2024-10-01,Larena Amba,Business,8,3
+2024-10-01,Larena Amba,Telebirr Adopter,17,3
+2024-10-01,Mehal Amba,Individual User,44,4
+2024-10-01,Mehal Amba,Business,11,4
+2024-10-01,Mehal Amba,Telebirr Adopter,24,4
+2024-10-01,Merkato Yushuwa,Individual User,53,4
+2024-10-01,Merkato Yushuwa,Business,14,4
+2024-10-01,Merkato Yushuwa,Telebirr Adopter,28,5
+2024-10-01,Wadu Amba,Individual User,61,2
+2024-10-01,Wadu Amba,Business,13,4
+2024-10-01,Wadu Amba,Telebirr Adopter,38,6
+2024-10-01,Sodo-Kore,Individual User,19,0
+2024-10-01,Sodo-Kore,Business,7,1
+2024-10-01,Sodo-Kore,Telebirr Adopter,12,5
+2024-10-01,Bale-Wogene,Individual User,20,1
+2024-10-01,Bale-Wogene,Business,6,2
+2024-10-01,Bale-Wogene,Telebirr Adopter,13,5
+2024-10-01,Hembecho,Individual User,25,1
+2024-10-01,Hembecho,Business,5,1
+2024-10-01,Hembecho,Telebirr Adopter,12,1
+2024-10-01,Shanto,Individual User,16,1
+2024-10-01,Shanto,Business,5,4
+2024-10-01,Shanto,Telebirr Adopter,8,0
+2024-10-01,Dubbo,Individual User,7,1
+2024-10-01,Dubbo,Business,2,0
+2024-10-01,Dubbo,Telebirr Adopter,6,3
+2024-10-01,Ocholo,Individual User,23,4
+2024-10-01,Ocholo,Business,4,5
+2024-10-01,Ocholo,Telebirr Adopter,12,4
+2024-10-01,Gesuba,Individual User,15,3
+2024-10-01,Gesuba,Business,3,2
+2024-10-01,Gesuba,Telebirr Adopter,11,0
+2024-10-01,Humbo-Aba,Individual User,33,2
+2024-10-01,Humbo-Aba,Business,7,2
+2024-10-01,Humbo-Aba,Telebirr Adopter,16,5
+2024-11-01,Arada,Individual User,40,3
+2024-11-01,Arada,Business,6,5
+2024-11-01,Arada,Telebirr Adopter,21,3
+2024-11-01,Dil Begerera,Individual User,34,1
+2024-11-01,Dil Begerera,Business,8,5
+2024-11-01,Dil Begerera,Telebirr Adopter,20,1
+2024-11-01,Fana Womba,Individual User,61,4
+2024-11-01,Fana Womba,Business,13,5
+2024-11-01,Fana Womba,Telebirr Adopter,24,4
+2024-11-01,Larena Amba,Individual User,29,6
+2024-11-01,Larena Amba,Business,8,1
+2024-11-01,Larena Amba,Telebirr Adopter,17,3
+2024-11-01,Mehal Amba,Individual User,38,1
+2024-11-01,Mehal Amba,Business,8,4
+2024-11-01,Mehal Amba,Telebirr Adopter,23,2
+2024-11-01,Merkato Yushuwa,Individual User,47,7
+2024-11-01,Merkato Yushuwa,Business,12,1
+2024-11-01,Merkato Yushuwa,Telebirr Adopter,27,3
+2024-11-01,Wadu Amba,Individual User,59,3
+2024-11-01,Wadu Amba,Business,11,0
+2024-11-01,Wadu Amba,Telebirr Adopter,34,1
+2024-11-01,Sodo-Kore,Individual User,21,2
+2024-11-01,Sodo-Kore,Business,6,2
+2024-11-01,Sodo-Kore,Telebirr Adopter,10,4
+2024-11-01,Bale-Wogene,Individual User,29,6
+2024-11-01,Bale-Wogene,Business,6,4
+2024-11-01,Bale-Wogene,Telebirr Adopter,12,2
+2024-11-01,Hembecho,Individual User,19,4
+2024-11-01,Hembecho,Business,5,0
+2024-11-01,Hembecho,Telebirr Adopter,12,3
+2024-11-01,Shanto,Individual User,22,6
+2024-11-01,Shanto,Business,4,2
+2024-11-01,Shanto,Telebirr Adopter,11,5
+2024-11-01,Dubbo,Individual User,11,3
+2024-11-01,Dubbo,Business,2,2
+2024-11-01,Dubbo,Telebirr Adopter,5,4
+2024-11-01,Ocholo,Individual User,20,5
+2024-11-01,Ocholo,Business,5,3
+2024-11-01,Ocholo,Telebirr Adopter,12,3
+2024-11-01,Gesuba,Individual User,12,0
+2024-11-01,Gesuba,Business,3,4
+2024-11-01,Gesuba,Telebirr Adopter,6,0
+2024-11-01,Humbo-Aba,Individual User,28,4
+2024-11-01,Humbo-Aba,Business,7,5
+2024-11-01,Humbo-Aba,Telebirr Adopter,14,2
+2024-12-01,Arada,Individual User,47,6
+2024-12-01,Arada,Business,7,2
+2024-12-01,Arada,Telebirr Adopter,16,0
+2024-12-01,Dil Begerera,Individual User,38,1
+2024-12-01,Dil Begerera,Business,10,1
+2024-12-01,Dil Begerera,Telebirr Adopter,26,6
+2024-12-01,Fana Womba,Individual User,43,5
+2024-12-01,Fana Womba,Business,13,4
+2024-12-01,Fana Womba,Telebirr Adopter,26,1
+2024-12-01,Larena Amba,Individual User,25,6
+2024-12-01,Larena Amba,Business,7,2
+2024-12-01,Larena Amba,Telebirr Adopter,16,4
+2024-12-01,Mehal Amba,Individual User,28,1
+2024-12-01,Mehal Amba,Business,11,1
+2024-12-01,Mehal Amba,Telebirr Adopter,24,4
+2024-12-01,Merkato Yushuwa,Individual User,39,5
+2024-12-01,Merkato Yushuwa,Business,11,5
+2024-12-01,Merkato Yushuwa,Telebirr Adopter,26,4
+2024-12-01,Wadu Amba,Individual User,51,4
+2024-12-01,Wadu Amba,Business,11,1
+2024-12-01,Wadu Amba,Telebirr Adopter,25,5
+2024-12-01,Sodo-Kore,Individual User,19,3
+2024-12-01,Sodo-Kore,Business,5,5
+2024-12-01,Sodo-Kore,Telebirr Adopter,12,3
+2024-12-01,Bale-Wogene,Individual User,21,1
+2024-12-01,Bale-Wogene,Business,6,3
+2024-12-01,Bale-Wogene,Telebirr Adopter,7,2
+2024-12-01,Hembecho,Individual User,24,4
+2024-12-01,Hembecho,Business,3,2
+2024-12-01,Hembecho,Telebirr Adopter,10,2
+2024-12-01,Shanto,Individual User,16,5
+2024-12-01,Shanto,Business,4,0
+2024-12-01,Shanto,Telebirr Adopter,13,1
+2024-12-01,Dubbo,Individual User,8,2
+2024-12-01,Dubbo,Business,2,3
+2024-12-01,Dubbo,Telebirr Adopter,4,5
+2024-12-01,Ocholo,Individual User,20,4
+2024-12-01,Ocholo,Business,4,2
+2024-12-01,Ocholo,Telebirr Adopter,8,5
+2024-12-01,Gesuba,Individual User,16,3
+2024-12-01,Gesuba,Business,3,4
+2024-12-01,Gesuba,Telebirr Adopter,6,0
+2024-12-01,Humbo-Aba,Individual User,24,4
+2024-12-01,Humbo-Aba,Business,8,0
+2024-12-01,Humbo-Aba,Telebirr Adopter,16,2

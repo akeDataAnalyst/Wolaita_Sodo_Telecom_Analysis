@@ -1,0 +1,29 @@
+# --- Python Environment and Build Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+
+# Dependencies
+pip-log.txt
+pip-delete-this-file.txt
+
+# --- IDE and Notebook Files ---
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code directory (optional, but often helpful)
+.vscode/
+
+# --- Operating System Files ---
+.DS_Store # Mac
+Thumbs.db # Windows
+
+# --- Generated Data (Keep the final analysis data, but hide raw/temporary files) ---
+# If you want to exclude any specific large generated files:
+# monthly_subscriber_data.csv 
+# kebele_population.csv

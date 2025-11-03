@@ -1,0 +1,1081 @@
+Date,Year,Month,Kebele,Type,Segment,Population,New_Subscribers,Monthly_Churn,Net_Acquisition,Cumulative_Subscribers,Kebele_Cumulative_Subscribers,Market_Penetration_Rate,MoM_Growth_Rate
+2023-01-01,2023,1,Arada,Urban,Business,21423,7,3,4,4,37,0.17,100.0
+2023-02-01,2023,2,Arada,Urban,Business,21423,7,2,5,9,75,0.35,125.0
+2023-03-01,2023,3,Arada,Urban,Business,21423,10,1,9,18,126,0.59,100.0
+2023-04-01,2023,4,Arada,Urban,Business,21423,9,4,5,23,187,0.87,27.78
+2023-05-01,2023,5,Arada,Urban,Business,21423,9,1,8,31,251,1.17,34.78
+2023-06-01,2023,6,Arada,Urban,Business,21423,11,0,11,42,314,1.47,35.48
+2023-07-01,2023,7,Arada,Urban,Business,21423,8,3,5,47,383,1.79,11.9
+2023-08-01,2023,8,Arada,Urban,Business,21423,11,4,7,54,435,2.03,14.89
+2023-09-01,2023,9,Arada,Urban,Business,21423,11,4,7,61,489,2.28,12.96
+2023-10-01,2023,10,Arada,Urban,Business,21423,7,5,2,63,538,2.51,3.28
+2023-11-01,2023,11,Arada,Urban,Business,21423,8,1,7,70,581,2.71,11.11
+2023-12-01,2023,12,Arada,Urban,Business,21423,6,3,3,73,621,2.9,4.29
+2024-01-01,2024,1,Arada,Urban,Business,21423,8,2,6,79,688,3.21,8.22
+2024-02-01,2024,2,Arada,Urban,Business,21423,9,3,6,85,751,3.51,7.59
+2024-03-01,2024,3,Arada,Urban,Business,21423,14,2,12,97,818,3.82,14.12
+2024-04-01,2024,4,Arada,Urban,Business,21423,10,4,6,103,899,4.2,6.19
+2024-05-01,2024,5,Arada,Urban,Business,21423,10,0,10,113,981,4.58,9.71
+2024-06-01,2024,6,Arada,Urban,Business,21423,14,0,14,127,1078,5.03,12.39
+2024-07-01,2024,7,Arada,Urban,Business,21423,13,2,11,138,1172,5.47,8.66
+2024-08-01,2024,8,Arada,Urban,Business,21423,11,2,9,147,1255,5.86,6.52
+2024-09-01,2024,9,Arada,Urban,Business,21423,11,2,9,156,1335,6.23,6.12
+2024-10-01,2024,10,Arada,Urban,Business,21423,8,0,8,164,1393,6.5,5.13
+2024-11-01,2024,11,Arada,Urban,Business,21423,6,5,1,165,1449,6.76,0.61
+2024-12-01,2024,12,Arada,Urban,Business,21423,7,2,5,170,1511,7.05,3.03
+2023-01-01,2023,1,Arada,Urban,Individual User,21423,33,6,27,27,37,0.17,100.0
+2023-02-01,2023,2,Arada,Urban,Individual User,21423,30,4,26,53,75,0.35,96.3
+2023-03-01,2023,3,Arada,Urban,Individual User,21423,38,1,37,90,126,0.59,69.81
+2023-04-01,2023,4,Arada,Urban,Individual User,21423,51,3,48,138,187,0.87,53.33
+2023-05-01,2023,5,Arada,Urban,Individual User,21423,48,2,46,184,251,1.17,33.33
+2023-06-01,2023,6,Arada,Urban,Individual User,21423,53,7,46,230,314,1.47,25.0
+2023-07-01,2023,7,Arada,Urban,Individual User,21423,54,4,50,280,383,1.79,21.74
+2023-08-01,2023,8,Arada,Urban,Individual User,21423,41,6,35,315,435,2.03,12.5
+2023-09-01,2023,9,Arada,Urban,Individual User,21423,41,6,35,350,489,2.28,11.11
+2023-10-01,2023,10,Arada,Urban,Individual User,21423,37,1,36,386,538,2.51,10.29
+2023-11-01,2023,11,Arada,Urban,Individual User,21423,31,4,27,413,581,2.71,6.99
+2023-12-01,2023,12,Arada,Urban,Individual User,21423,32,6,26,439,621,2.9,6.3
+2024-01-01,2024,1,Arada,Urban,Individual User,21423,44,4,40,479,688,3.21,9.11
+2024-02-01,2024,2,Arada,Urban,Individual User,21423,44,5,39,518,751,3.51,8.14
+2024-03-01,2024,3,Arada,Urban,Individual User,21423,35,2,33,551,818,3.82,6.37
+2024-04-01,2024,4,Arada,Urban,Individual User,21423,46,6,40,591,899,4.2,7.26
+2024-05-01,2024,5,Arada,Urban,Individual User,21423,58,5,53,644,981,4.58,8.97
+2024-06-01,2024,6,Arada,Urban,Individual User,21423,51,3,48,692,1078,5.03,7.45
+2024-07-01,2024,7,Arada,Urban,Individual User,21423,54,6,48,740,1172,5.47,6.94
+2024-08-01,2024,8,Arada,Urban,Individual User,21423,47,2,45,785,1255,5.86,6.08
+2024-09-01,2024,9,Arada,Urban,Individual User,21423,50,3,47,832,1335,6.23,5.99
+2024-10-01,2024,10,Arada,Urban,Individual User,21423,35,2,33,865,1393,6.5,3.97
+2024-11-01,2024,11,Arada,Urban,Individual User,21423,40,3,37,902,1449,6.76,4.28
+2024-12-01,2024,12,Arada,Urban,Individual User,21423,47,6,41,943,1511,7.05,4.55
+2023-01-01,2023,1,Arada,Urban,Telebirr Adopter,21423,10,4,6,6,37,0.17,100.0
+2023-02-01,2023,2,Arada,Urban,Telebirr Adopter,21423,12,5,7,13,75,0.35,116.67
+2023-03-01,2023,3,Arada,Urban,Telebirr Adopter,21423,10,5,5,18,126,0.59,38.46
+2023-04-01,2023,4,Arada,Urban,Telebirr Adopter,21423,12,4,8,26,187,0.87,44.44
+2023-05-01,2023,5,Arada,Urban,Telebirr Adopter,21423,11,1,10,36,251,1.17,38.46
+2023-06-01,2023,6,Arada,Urban,Telebirr Adopter,21423,11,5,6,42,314,1.47,16.67
+2023-07-01,2023,7,Arada,Urban,Telebirr Adopter,21423,19,5,14,56,383,1.79,33.33
+2023-08-01,2023,8,Arada,Urban,Telebirr Adopter,21423,14,4,10,66,435,2.03,17.86
+2023-09-01,2023,9,Arada,Urban,Telebirr Adopter,21423,14,2,12,78,489,2.28,18.18
+2023-10-01,2023,10,Arada,Urban,Telebirr Adopter,21423,12,1,11,89,538,2.51,14.1
+2023-11-01,2023,11,Arada,Urban,Telebirr Adopter,21423,10,1,9,98,581,2.71,10.11
+2023-12-01,2023,12,Arada,Urban,Telebirr Adopter,21423,11,0,11,109,621,2.9,11.22
+2024-01-01,2024,1,Arada,Urban,Telebirr Adopter,21423,23,2,21,130,688,3.21,19.27
+2024-02-01,2024,2,Arada,Urban,Telebirr Adopter,21423,21,3,18,148,751,3.51,13.85
+2024-03-01,2024,3,Arada,Urban,Telebirr Adopter,21423,26,4,22,170,818,3.82,14.86
+2024-04-01,2024,4,Arada,Urban,Telebirr Adopter,21423,37,2,35,205,899,4.2,20.59
+2024-05-01,2024,5,Arada,Urban,Telebirr Adopter,21423,25,6,19,224,981,4.58,9.27
+2024-06-01,2024,6,Arada,Urban,Telebirr Adopter,21423,40,5,35,259,1078,5.03,15.62
+2024-07-01,2024,7,Arada,Urban,Telebirr Adopter,21423,38,3,35,294,1172,5.47,13.51
+2024-08-01,2024,8,Arada,Urban,Telebirr Adopter,21423,31,2,29,323,1255,5.86,9.86
+2024-09-01,2024,9,Arada,Urban,Telebirr Adopter,21423,26,2,24,347,1335,6.23,7.43
+2024-10-01,2024,10,Arada,Urban,Telebirr Adopter,21423,21,4,17,364,1393,6.5,4.9
+2024-11-01,2024,11,Arada,Urban,Telebirr Adopter,21423,21,3,18,382,1449,6.76,4.95
+2024-12-01,2024,12,Arada,Urban,Telebirr Adopter,21423,16,0,16,398,1511,7.05,4.19
+2023-01-01,2023,1,Bale-Wogene,Periphery,Business,13985,4,5,-1,-1,15,0.11,100.0
+2023-02-01,2023,2,Bale-Wogene,Periphery,Business,13985,5,1,4,3,39,0.28,-400.0
+2023-03-01,2023,3,Bale-Wogene,Periphery,Business,13985,5,2,3,6,67,0.48,100.0
+2023-04-01,2023,4,Bale-Wogene,Periphery,Business,13985,5,4,1,7,98,0.7,16.67
+2023-05-01,2023,5,Bale-Wogene,Periphery,Business,13985,5,3,2,9,123,0.88,28.57
+2023-06-01,2023,6,Bale-Wogene,Periphery,Business,13985,5,0,5,14,161,1.15,55.56
+2023-07-01,2023,7,Bale-Wogene,Periphery,Business,13985,6,1,5,19,200,1.43,35.71
+2023-08-01,2023,8,Bale-Wogene,Periphery,Business,13985,5,0,5,24,232,1.66,26.32
+2023-09-01,2023,9,Bale-Wogene,Periphery,Business,13985,5,0,5,29,264,1.89,20.83
+2023-10-01,2023,10,Bale-Wogene,Periphery,Business,13985,4,5,-1,28,278,1.99,-3.45
+2023-11-01,2023,11,Bale-Wogene,Periphery,Business,13985,4,2,2,30,308,2.2,7.14
+2023-12-01,2023,12,Bale-Wogene,Periphery,Business,13985,3,3,0,30,328,2.35,0.0
+2024-01-01,2024,1,Bale-Wogene,Periphery,Business,13985,5,0,5,35,365,2.61,16.67
+2024-02-01,2024,2,Bale-Wogene,Periphery,Business,13985,7,4,3,38,406,2.9,8.57
+2024-03-01,2024,3,Bale-Wogene,Periphery,Business,13985,7,3,4,42,457,3.27,10.53
+2024-04-01,2024,4,Bale-Wogene,Periphery,Business,13985,7,0,7,49,508,3.63,16.67
+2024-05-01,2024,5,Bale-Wogene,Periphery,Business,13985,7,5,2,51,559,4.0,4.08
+2024-06-01,2024,6,Bale-Wogene,Periphery,Business,13985,9,3,6,57,605,4.33,11.76
+2024-07-01,2024,7,Bale-Wogene,Periphery,Business,13985,8,5,3,60,656,4.69,5.26
+2024-08-01,2024,8,Bale-Wogene,Periphery,Business,13985,10,0,10,70,712,5.09,16.67
+2024-09-01,2024,9,Bale-Wogene,Periphery,Business,13985,5,3,2,72,755,5.4,2.86
+2024-10-01,2024,10,Bale-Wogene,Periphery,Business,13985,6,2,4,76,786,5.62,5.56
+2024-11-01,2024,11,Bale-Wogene,Periphery,Business,13985,6,4,2,78,821,5.87,2.63
+2024-12-01,2024,12,Bale-Wogene,Periphery,Business,13985,6,3,3,81,849,6.07,3.85
+2023-01-01,2023,1,Bale-Wogene,Periphery,Individual User,13985,17,3,14,14,15,0.11,100.0
+2023-02-01,2023,2,Bale-Wogene,Periphery,Individual User,13985,18,3,15,29,39,0.28,107.14
+2023-03-01,2023,3,Bale-Wogene,Periphery,Individual User,13985,22,1,21,50,67,0.48,72.41
+2023-04-01,2023,4,Bale-Wogene,Periphery,Individual User,13985,27,4,23,73,98,0.7,46.0
+2023-05-01,2023,5,Bale-Wogene,Periphery,Individual User,13985,21,6,15,88,123,0.88,20.55
+2023-06-01,2023,6,Bale-Wogene,Periphery,Individual User,13985,29,5,24,112,161,1.15,27.27
+2023-07-01,2023,7,Bale-Wogene,Periphery,Individual User,13985,28,5,23,135,200,1.43,20.54
+2023-08-01,2023,8,Bale-Wogene,Periphery,Individual User,13985,23,1,22,157,232,1.66,16.3
+2023-09-01,2023,9,Bale-Wogene,Periphery,Individual User,13985,20,2,18,175,264,1.89,11.46
+2023-10-01,2023,10,Bale-Wogene,Periphery,Individual User,13985,15,4,11,186,278,1.99,6.29
+2023-11-01,2023,11,Bale-Wogene,Periphery,Individual User,13985,23,1,22,208,308,2.2,11.83
+2023-12-01,2023,12,Bale-Wogene,Periphery,Individual User,13985,20,5,15,223,328,2.35,7.21
+2024-01-01,2024,1,Bale-Wogene,Periphery,Individual User,13985,27,3,24,247,365,2.61,10.76
+2024-02-01,2024,2,Bale-Wogene,Periphery,Individual User,13985,31,5,26,273,406,2.9,10.53
+2024-03-01,2024,3,Bale-Wogene,Periphery,Individual User,13985,39,5,34,307,457,3.27,12.45
+2024-04-01,2024,4,Bale-Wogene,Periphery,Individual User,13985,30,6,24,331,508,3.63,7.82
+2024-05-01,2024,5,Bale-Wogene,Periphery,Individual User,13985,36,4,32,363,559,4.0,9.67
+2024-06-01,2024,6,Bale-Wogene,Periphery,Individual User,13985,25,4,21,384,605,4.33,5.79
+2024-07-01,2024,7,Bale-Wogene,Periphery,Individual User,13985,33,5,28,412,656,4.69,7.29
+2024-08-01,2024,8,Bale-Wogene,Periphery,Individual User,13985,37,2,35,447,712,5.09,8.5
+2024-09-01,2024,9,Bale-Wogene,Periphery,Individual User,13985,33,4,29,476,755,5.4,6.49
+2024-10-01,2024,10,Bale-Wogene,Periphery,Individual User,13985,20,1,19,495,786,5.62,3.99
+2024-11-01,2024,11,Bale-Wogene,Periphery,Individual User,13985,29,6,23,518,821,5.87,4.65
+2024-12-01,2024,12,Bale-Wogene,Periphery,Individual User,13985,21,1,20,538,849,6.07,3.86
+2023-01-01,2023,1,Bale-Wogene,Periphery,Telebirr Adopter,13985,4,2,2,2,15,0.11,100.0
+2023-02-01,2023,2,Bale-Wogene,Periphery,Telebirr Adopter,13985,7,2,5,7,39,0.28,250.0
+2023-03-01,2023,3,Bale-Wogene,Periphery,Telebirr Adopter,13985,7,3,4,11,67,0.48,57.14
+2023-04-01,2023,4,Bale-Wogene,Periphery,Telebirr Adopter,13985,8,1,7,18,98,0.7,63.64
+2023-05-01,2023,5,Bale-Wogene,Periphery,Telebirr Adopter,13985,9,1,8,26,123,0.88,44.44
+2023-06-01,2023,6,Bale-Wogene,Periphery,Telebirr Adopter,13985,9,0,9,35,161,1.15,34.62
+2023-07-01,2023,7,Bale-Wogene,Periphery,Telebirr Adopter,13985,11,0,11,46,200,1.43,31.43
+2023-08-01,2023,8,Bale-Wogene,Periphery,Telebirr Adopter,13985,9,4,5,51,232,1.66,10.87
+2023-09-01,2023,9,Bale-Wogene,Periphery,Telebirr Adopter,13985,9,0,9,60,264,1.89,17.65
+2023-10-01,2023,10,Bale-Wogene,Periphery,Telebirr Adopter,13985,5,1,4,64,278,1.99,6.67
+2023-11-01,2023,11,Bale-Wogene,Periphery,Telebirr Adopter,13985,7,1,6,70,308,2.2,9.38
+2023-12-01,2023,12,Bale-Wogene,Periphery,Telebirr Adopter,13985,7,2,5,75,328,2.35,7.14
+2024-01-01,2024,1,Bale-Wogene,Periphery,Telebirr Adopter,13985,9,1,8,83,365,2.61,10.67
+2024-02-01,2024,2,Bale-Wogene,Periphery,Telebirr Adopter,13985,14,2,12,95,406,2.9,14.46
+2024-03-01,2024,3,Bale-Wogene,Periphery,Telebirr Adopter,13985,16,3,13,108,457,3.27,13.68
+2024-04-01,2024,4,Bale-Wogene,Periphery,Telebirr Adopter,13985,20,0,20,128,508,3.63,18.52
+2024-05-01,2024,5,Bale-Wogene,Periphery,Telebirr Adopter,13985,19,2,17,145,559,4.0,13.28
+2024-06-01,2024,6,Bale-Wogene,Periphery,Telebirr Adopter,13985,19,0,19,164,605,4.33,13.1
+2024-07-01,2024,7,Bale-Wogene,Periphery,Telebirr Adopter,13985,23,3,20,184,656,4.69,12.2
+2024-08-01,2024,8,Bale-Wogene,Periphery,Telebirr Adopter,13985,16,5,11,195,712,5.09,5.98
+2024-09-01,2024,9,Bale-Wogene,Periphery,Telebirr Adopter,13985,14,2,12,207,755,5.4,6.15
+2024-10-01,2024,10,Bale-Wogene,Periphery,Telebirr Adopter,13985,13,5,8,215,786,5.62,3.86
+2024-11-01,2024,11,Bale-Wogene,Periphery,Telebirr Adopter,13985,12,2,10,225,821,5.87,4.65
+2024-12-01,2024,12,Bale-Wogene,Periphery,Telebirr Adopter,13985,7,2,5,230,849,6.07,2.22
+2023-01-01,2023,1,Dil Begerera,Urban,Business,21308,7,3,4,4,49,0.23,100.0
+2023-02-01,2023,2,Dil Begerera,Urban,Business,21308,6,4,2,6,89,0.42,50.0
+2023-03-01,2023,3,Dil Begerera,Urban,Business,21308,8,5,3,9,131,0.61,50.0
+2023-04-01,2023,4,Dil Begerera,Urban,Business,21308,8,4,4,13,189,0.89,44.44
+2023-05-01,2023,5,Dil Begerera,Urban,Business,21308,10,2,8,21,256,1.2,61.54
+2023-06-01,2023,6,Dil Begerera,Urban,Business,21308,12,5,7,28,308,1.45,33.33
+2023-07-01,2023,7,Dil Begerera,Urban,Business,21308,9,4,5,33,361,1.69,17.86
+2023-08-01,2023,8,Dil Begerera,Urban,Business,21308,10,2,8,41,418,1.96,24.24
+2023-09-01,2023,9,Dil Begerera,Urban,Business,21308,10,0,10,51,473,2.22,24.39
+2023-10-01,2023,10,Dil Begerera,Urban,Business,21308,9,0,9,60,522,2.45,17.65
+2023-11-01,2023,11,Dil Begerera,Urban,Business,21308,7,2,5,65,564,2.65,8.33
+2023-12-01,2023,12,Dil Begerera,Urban,Business,21308,5,4,1,66,592,2.78,1.54
+2024-01-01,2024,1,Dil Begerera,Urban,Business,21308,6,4,2,68,650,3.05,3.03
+2024-02-01,2024,2,Dil Begerera,Urban,Business,21308,9,1,8,76,718,3.37,11.76
+2024-03-01,2024,3,Dil Begerera,Urban,Business,21308,9,5,4,80,780,3.66,5.26
+2024-04-01,2024,4,Dil Begerera,Urban,Business,21308,15,1,14,94,875,4.11,17.5
+2024-05-01,2024,5,Dil Begerera,Urban,Business,21308,13,0,13,107,968,4.54,13.83
+2024-06-01,2024,6,Dil Begerera,Urban,Business,21308,17,5,12,119,1055,4.95,11.21
+2024-07-01,2024,7,Dil Begerera,Urban,Business,21308,15,0,15,134,1143,5.36,12.61
+2024-08-01,2024,8,Dil Begerera,Urban,Business,21308,13,5,8,142,1219,5.72,5.97
+2024-09-01,2024,9,Dil Begerera,Urban,Business,21308,11,1,10,152,1303,6.12,7.04
+2024-10-01,2024,10,Dil Begerera,Urban,Business,21308,10,4,6,158,1363,6.4,3.95
+2024-11-01,2024,11,Dil Begerera,Urban,Business,21308,8,5,3,161,1418,6.65,1.9
+2024-12-01,2024,12,Dil Begerera,Urban,Business,21308,10,1,9,170,1484,6.96,5.59
+2023-01-01,2023,1,Dil Begerera,Urban,Individual User,21308,37,1,36,36,49,0.23,100.0
+2023-02-01,2023,2,Dil Begerera,Urban,Individual User,21308,35,6,29,65,89,0.42,80.56
+2023-03-01,2023,3,Dil Begerera,Urban,Individual User,21308,35,2,33,98,131,0.61,50.77
+2023-04-01,2023,4,Dil Begerera,Urban,Individual User,21308,45,2,43,141,189,0.89,43.88
+2023-05-01,2023,5,Dil Begerera,Urban,Individual User,21308,46,2,44,185,256,1.2,31.21
+2023-06-01,2023,6,Dil Begerera,Urban,Individual User,21308,39,6,33,218,308,1.45,17.84
+2023-07-01,2023,7,Dil Begerera,Urban,Individual User,21308,43,7,36,254,361,1.69,16.51
+2023-08-01,2023,8,Dil Begerera,Urban,Individual User,21308,42,6,36,290,418,1.96,14.17
+2023-09-01,2023,9,Dil Begerera,Urban,Individual User,21308,39,6,33,323,473,2.22,11.38
+2023-10-01,2023,10,Dil Begerera,Urban,Individual User,21308,34,5,29,352,522,2.45,8.98
+2023-11-01,2023,11,Dil Begerera,Urban,Individual User,21308,33,4,29,381,564,2.65,8.24
+2023-12-01,2023,12,Dil Begerera,Urban,Individual User,21308,25,5,20,401,592,2.78,5.25
+2024-01-01,2024,1,Dil Begerera,Urban,Individual User,21308,46,5,41,442,650,3.05,10.22
+2024-02-01,2024,2,Dil Begerera,Urban,Individual User,21308,46,3,43,485,718,3.37,9.73
+2024-03-01,2024,3,Dil Begerera,Urban,Individual User,21308,43,2,41,526,780,3.66,8.45
+2024-04-01,2024,4,Dil Begerera,Urban,Individual User,21308,58,5,53,579,875,4.11,10.08
+2024-05-01,2024,5,Dil Begerera,Urban,Individual User,21308,60,6,54,633,968,4.54,9.33
+2024-06-01,2024,6,Dil Begerera,Urban,Individual User,21308,50,7,43,676,1055,4.95,6.79
+2024-07-01,2024,7,Dil Begerera,Urban,Individual User,21308,56,3,53,729,1143,5.36,7.84
+2024-08-01,2024,8,Dil Begerera,Urban,Individual User,21308,46,5,41,770,1219,5.72,5.62
+2024-09-01,2024,9,Dil Begerera,Urban,Individual User,21308,55,4,51,821,1303,6.12,6.62
+2024-10-01,2024,10,Dil Begerera,Urban,Individual User,21308,41,4,37,858,1363,6.4,4.51
+2024-11-01,2024,11,Dil Begerera,Urban,Individual User,21308,34,1,33,891,1418,6.65,3.85
+2024-12-01,2024,12,Dil Begerera,Urban,Individual User,21308,38,1,37,928,1484,6.96,4.15
+2023-01-01,2023,1,Dil Begerera,Urban,Telebirr Adopter,21308,9,0,9,9,49,0.23,100.0
+2023-02-01,2023,2,Dil Begerera,Urban,Telebirr Adopter,21308,10,1,9,18,89,0.42,100.0
+2023-03-01,2023,3,Dil Begerera,Urban,Telebirr Adopter,21308,9,3,6,24,131,0.61,33.33
+2023-04-01,2023,4,Dil Begerera,Urban,Telebirr Adopter,21308,13,2,11,35,189,0.89,45.83
+2023-05-01,2023,5,Dil Begerera,Urban,Telebirr Adopter,21308,15,0,15,50,256,1.2,42.86
+2023-06-01,2023,6,Dil Begerera,Urban,Telebirr Adopter,21308,12,0,12,62,308,1.45,24.0
+2023-07-01,2023,7,Dil Begerera,Urban,Telebirr Adopter,21308,17,5,12,74,361,1.69,19.35
+2023-08-01,2023,8,Dil Begerera,Urban,Telebirr Adopter,21308,15,2,13,87,418,1.96,17.57
+2023-09-01,2023,9,Dil Begerera,Urban,Telebirr Adopter,21308,13,1,12,99,473,2.22,13.79
+2023-10-01,2023,10,Dil Begerera,Urban,Telebirr Adopter,21308,13,2,11,110,522,2.45,11.11
+2023-11-01,2023,11,Dil Begerera,Urban,Telebirr Adopter,21308,10,2,8,118,564,2.65,7.27
+2023-12-01,2023,12,Dil Begerera,Urban,Telebirr Adopter,21308,12,5,7,125,592,2.78,5.93
+2024-01-01,2024,1,Dil Begerera,Urban,Telebirr Adopter,21308,19,4,15,140,650,3.05,12.0
+2024-02-01,2024,2,Dil Begerera,Urban,Telebirr Adopter,21308,23,6,17,157,718,3.37,12.14
+2024-03-01,2024,3,Dil Begerera,Urban,Telebirr Adopter,21308,19,2,17,174,780,3.66,10.83
+2024-04-01,2024,4,Dil Begerera,Urban,Telebirr Adopter,21308,31,3,28,202,875,4.11,16.09
+2024-05-01,2024,5,Dil Begerera,Urban,Telebirr Adopter,21308,29,3,26,228,968,4.54,12.87
+2024-06-01,2024,6,Dil Begerera,Urban,Telebirr Adopter,21308,34,2,32,260,1055,4.95,14.04
+2024-07-01,2024,7,Dil Begerera,Urban,Telebirr Adopter,21308,23,3,20,280,1143,5.36,7.69
+2024-08-01,2024,8,Dil Begerera,Urban,Telebirr Adopter,21308,29,2,27,307,1219,5.72,9.64
+2024-09-01,2024,9,Dil Begerera,Urban,Telebirr Adopter,21308,26,3,23,330,1303,6.12,7.49
+2024-10-01,2024,10,Dil Begerera,Urban,Telebirr Adopter,21308,22,5,17,347,1363,6.4,5.15
+2024-11-01,2024,11,Dil Begerera,Urban,Telebirr Adopter,21308,20,1,19,366,1418,6.65,5.48
+2024-12-01,2024,12,Dil Begerera,Urban,Telebirr Adopter,21308,26,6,20,386,1484,6.96,5.46
+2023-01-01,2023,1,Dubbo,Periphery,Business,7185,2,5,-3,-3,-6,-0.08,100.0
+2023-02-01,2023,2,Dubbo,Periphery,Business,7185,1,4,-3,-6,-8,-0.11,100.0
+2023-03-01,2023,3,Dubbo,Periphery,Business,7185,2,1,1,-5,-6,-0.08,-16.67
+2023-04-01,2023,4,Dubbo,Periphery,Business,7185,2,5,-3,-8,-4,-0.06,60.0
+2023-05-01,2023,5,Dubbo,Periphery,Business,7185,2,3,-1,-9,5,0.07,12.5
+2023-06-01,2023,6,Dubbo,Periphery,Business,7185,2,3,-1,-10,11,0.15,11.11
+2023-07-01,2023,7,Dubbo,Periphery,Business,7185,2,1,1,-9,18,0.25,-10.0
+2023-08-01,2023,8,Dubbo,Periphery,Business,7185,2,2,0,-9,26,0.36,-0.0
+2023-09-01,2023,9,Dubbo,Periphery,Business,7185,2,5,-3,-12,34,0.47,33.33
+2023-10-01,2023,10,Dubbo,Periphery,Business,7185,1,2,-1,-13,33,0.46,8.33
+2023-11-01,2023,11,Dubbo,Periphery,Business,7185,1,5,-4,-17,34,0.47,30.77
+2023-12-01,2023,12,Dubbo,Periphery,Business,7185,1,5,-4,-21,33,0.46,23.53
+2024-01-01,2024,1,Dubbo,Periphery,Business,7185,2,1,1,-20,42,0.58,-4.76
+2024-02-01,2024,2,Dubbo,Periphery,Business,7185,2,1,1,-19,49,0.68,-5.0
+2024-03-01,2024,3,Dubbo,Periphery,Business,7185,2,4,-2,-21,60,0.84,10.53
+2024-04-01,2024,4,Dubbo,Periphery,Business,7185,3,3,0,-21,70,0.97,-0.0
+2024-05-01,2024,5,Dubbo,Periphery,Business,7185,2,1,1,-20,93,1.29,-4.76
+2024-06-01,2024,6,Dubbo,Periphery,Business,7185,3,1,2,-18,108,1.5,-10.0
+2024-07-01,2024,7,Dubbo,Periphery,Business,7185,3,3,0,-18,120,1.67,-0.0
+2024-08-01,2024,8,Dubbo,Periphery,Business,7185,3,1,2,-16,140,1.95,-11.11
+2024-09-01,2024,9,Dubbo,Periphery,Business,7185,2,3,-1,-17,148,2.06,6.25
+2024-10-01,2024,10,Dubbo,Periphery,Business,7185,2,0,2,-15,159,2.21,-11.76
+2024-11-01,2024,11,Dubbo,Periphery,Business,7185,2,2,0,-15,168,2.34,-0.0
+2024-12-01,2024,12,Dubbo,Periphery,Business,7185,2,3,-1,-16,172,2.39,6.67
+2023-01-01,2023,1,Dubbo,Periphery,Individual User,7185,6,5,1,1,-6,-0.08,100.0
+2023-02-01,2023,2,Dubbo,Periphery,Individual User,7185,7,5,2,3,-8,-0.11,200.0
+2023-03-01,2023,3,Dubbo,Periphery,Individual User,7185,6,4,2,5,-6,-0.08,66.67
+2023-04-01,2023,4,Dubbo,Periphery,Individual User,7185,9,5,4,9,-4,-0.06,80.0
+2023-05-01,2023,5,Dubbo,Periphery,Individual User,7185,11,1,10,19,5,0.07,111.11
+2023-06-01,2023,6,Dubbo,Periphery,Individual User,7185,11,3,8,27,11,0.15,42.11
+2023-07-01,2023,7,Dubbo,Periphery,Individual User,7185,11,5,6,33,18,0.25,22.22
+2023-08-01,2023,8,Dubbo,Periphery,Individual User,7185,8,1,7,40,26,0.36,21.21
+2023-09-01,2023,9,Dubbo,Periphery,Individual User,7185,11,1,10,50,34,0.47,25.0
+2023-10-01,2023,10,Dubbo,Periphery,Individual User,7185,5,5,0,50,33,0.46,0.0
+2023-11-01,2023,11,Dubbo,Periphery,Individual User,7185,7,2,5,55,34,0.47,10.0
+2023-12-01,2023,12,Dubbo,Periphery,Individual User,7185,7,3,4,59,33,0.46,7.27
+2024-01-01,2024,1,Dubbo,Periphery,Individual User,7185,8,0,8,67,42,0.58,13.56
+2024-02-01,2024,2,Dubbo,Periphery,Individual User,7185,10,3,7,74,49,0.68,10.45
+2024-03-01,2024,3,Dubbo,Periphery,Individual User,7185,10,0,10,84,60,0.84,13.51
+2024-04-01,2024,4,Dubbo,Periphery,Individual User,7185,8,2,6,90,70,0.97,7.14
+2024-05-01,2024,5,Dubbo,Periphery,Individual User,7185,14,0,14,104,93,1.29,15.56
+2024-06-01,2024,6,Dubbo,Periphery,Individual User,7185,13,3,10,114,108,1.5,9.62
+2024-07-01,2024,7,Dubbo,Periphery,Individual User,7185,13,5,8,122,120,1.67,7.02
+2024-08-01,2024,8,Dubbo,Periphery,Individual User,7185,13,1,12,134,140,1.95,9.84
+2024-09-01,2024,9,Dubbo,Periphery,Individual User,7185,7,3,4,138,148,2.06,2.99
+2024-10-01,2024,10,Dubbo,Periphery,Individual User,7185,7,1,6,144,159,2.21,4.35
+2024-11-01,2024,11,Dubbo,Periphery,Individual User,7185,11,3,8,152,168,2.34,5.56
+2024-12-01,2024,12,Dubbo,Periphery,Individual User,7185,8,2,6,158,172,2.39,3.95
+2023-01-01,2023,1,Dubbo,Periphery,Telebirr Adopter,7185,1,5,-4,-4,-6,-0.08,100.0
+2023-02-01,2023,2,Dubbo,Periphery,Telebirr Adopter,7185,2,3,-1,-5,-8,-0.11,25.0
+2023-03-01,2023,3,Dubbo,Periphery,Telebirr Adopter,7185,3,4,-1,-6,-6,-0.08,20.0
+2023-04-01,2023,4,Dubbo,Periphery,Telebirr Adopter,7185,2,1,1,-5,-4,-0.06,-16.67
+2023-05-01,2023,5,Dubbo,Periphery,Telebirr Adopter,7185,3,3,0,-5,5,0.07,-0.0
+2023-06-01,2023,6,Dubbo,Periphery,Telebirr Adopter,7185,2,3,-1,-6,11,0.15,20.0
+2023-07-01,2023,7,Dubbo,Periphery,Telebirr Adopter,7185,3,3,0,-6,18,0.25,-0.0
+2023-08-01,2023,8,Dubbo,Periphery,Telebirr Adopter,7185,3,2,1,-5,26,0.36,-16.67
+2023-09-01,2023,9,Dubbo,Periphery,Telebirr Adopter,7185,3,2,1,-4,34,0.47,-20.0
+2023-10-01,2023,10,Dubbo,Periphery,Telebirr Adopter,7185,3,3,0,-4,33,0.46,-0.0
+2023-11-01,2023,11,Dubbo,Periphery,Telebirr Adopter,7185,2,2,0,-4,34,0.47,-0.0
+2023-12-01,2023,12,Dubbo,Periphery,Telebirr Adopter,7185,2,3,-1,-5,33,0.46,25.0
+2024-01-01,2024,1,Dubbo,Periphery,Telebirr Adopter,7185,3,3,0,-5,42,0.58,-0.0
+2024-02-01,2024,2,Dubbo,Periphery,Telebirr Adopter,7185,4,5,-1,-6,49,0.68,20.0
+2024-03-01,2024,3,Dubbo,Periphery,Telebirr Adopter,7185,6,3,3,-3,60,0.84,-50.0
+2024-04-01,2024,4,Dubbo,Periphery,Telebirr Adopter,7185,6,2,4,1,70,0.97,-133.33
+2024-05-01,2024,5,Dubbo,Periphery,Telebirr Adopter,7185,10,2,8,9,93,1.29,800.0
+2024-06-01,2024,6,Dubbo,Periphery,Telebirr Adopter,7185,8,5,3,12,108,1.5,33.33
+2024-07-01,2024,7,Dubbo,Periphery,Telebirr Adopter,7185,7,3,4,16,120,1.67,33.33
+2024-08-01,2024,8,Dubbo,Periphery,Telebirr Adopter,7185,7,1,6,22,140,1.95,37.5
+2024-09-01,2024,9,Dubbo,Periphery,Telebirr Adopter,7185,5,0,5,27,148,2.06,22.73
+2024-10-01,2024,10,Dubbo,Periphery,Telebirr Adopter,7185,6,3,3,30,159,2.21,11.11
+2024-11-01,2024,11,Dubbo,Periphery,Telebirr Adopter,7185,5,4,1,31,168,2.34,3.33
+2024-12-01,2024,12,Dubbo,Periphery,Telebirr Adopter,7185,4,5,-1,30,172,2.39,-3.23
+2023-01-01,2023,1,Fana Womba,Urban,Business,21489,10,2,8,8,56,0.26,100.0
+2023-02-01,2023,2,Fana Womba,Urban,Business,21489,9,2,7,15,110,0.51,87.5
+2023-03-01,2023,3,Fana Womba,Urban,Business,21489,12,0,12,27,176,0.82,80.0
+2023-04-01,2023,4,Fana Womba,Urban,Business,21489,9,0,9,36,257,1.2,33.33
+2023-05-01,2023,5,Fana Womba,Urban,Business,21489,13,4,9,45,331,1.54,25.0
+2023-06-01,2023,6,Fana Womba,Urban,Business,21489,14,3,11,56,407,1.89,24.44
+2023-07-01,2023,7,Fana Womba,Urban,Business,21489,12,3,9,65,484,2.25,16.07
+2023-08-01,2023,8,Fana Womba,Urban,Business,21489,11,5,6,71,561,2.61,9.23
+2023-09-01,2023,9,Fana Womba,Urban,Business,21489,11,0,11,82,634,2.95,15.49
+2023-10-01,2023,10,Fana Womba,Urban,Business,21489,8,4,4,86,684,3.18,4.88
+2023-11-01,2023,11,Fana Womba,Urban,Business,21489,8,1,7,93,739,3.44,8.14
+2023-12-01,2023,12,Fana Womba,Urban,Business,21489,7,5,2,95,793,3.69,2.15
+2024-01-01,2024,1,Fana Womba,Urban,Business,21489,11,2,9,104,871,4.05,9.47
+2024-02-01,2024,2,Fana Womba,Urban,Business,21489,14,0,14,118,956,4.45,13.46
+2024-03-01,2024,3,Fana Womba,Urban,Business,21489,14,2,12,130,1053,4.9,10.17
+2024-04-01,2024,4,Fana Womba,Urban,Business,21489,14,3,11,141,1149,5.35,8.46
+2024-05-01,2024,5,Fana Womba,Urban,Business,21489,17,5,12,153,1260,5.86,8.51
+2024-06-01,2024,6,Fana Womba,Urban,Business,21489,19,5,14,167,1378,6.41,9.15
+2024-07-01,2024,7,Fana Womba,Urban,Business,21489,19,1,18,185,1496,6.96,10.78
+2024-08-01,2024,8,Fana Womba,Urban,Business,21489,19,5,14,199,1595,7.42,7.57
+2024-09-01,2024,9,Fana Womba,Urban,Business,21489,16,5,11,210,1681,7.82,5.53
+2024-10-01,2024,10,Fana Womba,Urban,Business,21489,10,1,9,219,1769,8.23,4.29
+2024-11-01,2024,11,Fana Womba,Urban,Business,21489,13,5,8,227,1854,8.63,3.65
+2024-12-01,2024,12,Fana Womba,Urban,Business,21489,13,4,9,236,1926,8.96,3.96
+2023-01-01,2023,1,Fana Womba,Urban,Individual User,21489,47,5,42,42,56,0.26,100.0
+2023-02-01,2023,2,Fana Womba,Urban,Individual User,21489,39,6,33,75,110,0.51,78.57
+2023-03-01,2023,3,Fana Womba,Urban,Individual User,21489,48,5,43,118,176,0.82,57.33
+2023-04-01,2023,4,Fana Womba,Urban,Individual User,21489,61,5,56,174,257,1.2,47.46
+2023-05-01,2023,5,Fana Womba,Urban,Individual User,21489,58,6,52,226,331,1.54,29.89
+2023-06-01,2023,6,Fana Womba,Urban,Individual User,21489,57,2,55,281,407,1.89,24.34
+2023-07-01,2023,7,Fana Womba,Urban,Individual User,21489,56,7,49,330,484,2.25,17.44
+2023-08-01,2023,8,Fana Womba,Urban,Individual User,21489,55,3,52,382,561,2.61,15.76
+2023-09-01,2023,9,Fana Womba,Urban,Individual User,21489,48,3,45,427,634,2.95,11.78
+2023-10-01,2023,10,Fana Womba,Urban,Individual User,21489,34,5,29,456,684,3.18,6.79
+2023-11-01,2023,11,Fana Womba,Urban,Individual User,21489,37,2,35,491,739,3.44,7.68
+2023-12-01,2023,12,Fana Womba,Urban,Individual User,21489,48,6,42,533,793,3.69,8.55
+2024-01-01,2024,1,Fana Womba,Urban,Individual User,21489,52,7,45,578,871,4.05,8.44
+2024-02-01,2024,2,Fana Womba,Urban,Individual User,21489,48,6,42,620,956,4.45,7.27
+2024-03-01,2024,3,Fana Womba,Urban,Individual User,21489,65,3,62,682,1053,4.9,10.0
+2024-04-01,2024,4,Fana Womba,Urban,Individual User,21489,53,5,48,730,1149,5.35,7.04
+2024-05-01,2024,5,Fana Womba,Urban,Individual User,21489,68,3,65,795,1260,5.86,8.9
+2024-06-01,2024,6,Fana Womba,Urban,Individual User,21489,64,2,62,857,1378,6.41,7.8
+2024-07-01,2024,7,Fana Womba,Urban,Individual User,21489,71,5,66,923,1496,6.96,7.7
+2024-08-01,2024,8,Fana Womba,Urban,Individual User,21489,49,4,45,968,1595,7.42,4.88
+2024-09-01,2024,9,Fana Womba,Urban,Individual User,21489,46,1,45,1013,1681,7.82,4.65
+2024-10-01,2024,10,Fana Womba,Urban,Individual User,21489,55,6,49,1062,1769,8.23,4.84
+2024-11-01,2024,11,Fana Womba,Urban,Individual User,21489,61,4,57,1119,1854,8.63,5.37
+2024-12-01,2024,12,Fana Womba,Urban,Individual User,21489,43,5,38,1157,1926,8.96,3.4
+2023-01-01,2023,1,Fana Womba,Urban,Telebirr Adopter,21489,11,5,6,6,56,0.26,100.0
+2023-02-01,2023,2,Fana Womba,Urban,Telebirr Adopter,21489,14,0,14,20,110,0.51,233.33
+2023-03-01,2023,3,Fana Womba,Urban,Telebirr Adopter,21489,14,3,11,31,176,0.82,55.0
+2023-04-01,2023,4,Fana Womba,Urban,Telebirr Adopter,21489,16,0,16,47,257,1.2,51.61
+2023-05-01,2023,5,Fana Womba,Urban,Telebirr Adopter,21489,14,1,13,60,331,1.54,27.66
+2023-06-01,2023,6,Fana Womba,Urban,Telebirr Adopter,21489,15,5,10,70,407,1.89,16.67
+2023-07-01,2023,7,Fana Womba,Urban,Telebirr Adopter,21489,20,1,19,89,484,2.25,27.14
+2023-08-01,2023,8,Fana Womba,Urban,Telebirr Adopter,21489,25,6,19,108,561,2.61,21.35
+2023-09-01,2023,9,Fana Womba,Urban,Telebirr Adopter,21489,17,0,17,125,634,2.95,15.74
+2023-10-01,2023,10,Fana Womba,Urban,Telebirr Adopter,21489,18,1,17,142,684,3.18,13.6
+2023-11-01,2023,11,Fana Womba,Urban,Telebirr Adopter,21489,13,0,13,155,739,3.44,9.15
+2023-12-01,2023,12,Fana Womba,Urban,Telebirr Adopter,21489,15,5,10,165,793,3.69,6.45
+2024-01-01,2024,1,Fana Womba,Urban,Telebirr Adopter,21489,28,4,24,189,871,4.05,14.55
+2024-02-01,2024,2,Fana Womba,Urban,Telebirr Adopter,21489,30,1,29,218,956,4.45,15.34
+2024-03-01,2024,3,Fana Womba,Urban,Telebirr Adopter,21489,26,3,23,241,1053,4.9,10.55
+2024-04-01,2024,4,Fana Womba,Urban,Telebirr Adopter,21489,38,1,37,278,1149,5.35,15.35
+2024-05-01,2024,5,Fana Womba,Urban,Telebirr Adopter,21489,35,1,34,312,1260,5.86,12.23
+2024-06-01,2024,6,Fana Womba,Urban,Telebirr Adopter,21489,45,3,42,354,1378,6.41,13.46
+2024-07-01,2024,7,Fana Womba,Urban,Telebirr Adopter,21489,38,4,34,388,1496,6.96,9.6
+2024-08-01,2024,8,Fana Womba,Urban,Telebirr Adopter,21489,45,5,40,428,1595,7.42,10.31
+2024-09-01,2024,9,Fana Womba,Urban,Telebirr Adopter,21489,35,5,30,458,1681,7.82,7.01
+2024-10-01,2024,10,Fana Womba,Urban,Telebirr Adopter,21489,35,5,30,488,1769,8.23,6.55
+2024-11-01,2024,11,Fana Womba,Urban,Telebirr Adopter,21489,24,4,20,508,1854,8.63,4.1
+2024-12-01,2024,12,Fana Womba,Urban,Telebirr Adopter,21489,26,1,25,533,1926,8.96,4.92
+2023-01-01,2023,1,Gesuba,Periphery,Business,12037,3,4,-1,-1,8,0.07,100.0
+2023-02-01,2023,2,Gesuba,Periphery,Business,12037,2,1,1,0,19,0.16,-100.0
+2023-03-01,2023,3,Gesuba,Periphery,Business,12037,2,4,-2,-2,25,0.21,100.0
+2023-04-01,2023,4,Gesuba,Periphery,Business,12037,4,5,-1,-3,37,0.31,50.0
+2023-05-01,2023,5,Gesuba,Periphery,Business,12037,5,3,2,-1,51,0.42,-66.67
+2023-06-01,2023,6,Gesuba,Periphery,Business,12037,3,3,0,-1,72,0.6,-0.0
+2023-07-01,2023,7,Gesuba,Periphery,Business,12037,4,4,0,-1,91,0.76,-0.0
+2023-08-01,2023,8,Gesuba,Periphery,Business,12037,3,2,1,0,103,0.86,-100.0
+2023-09-01,2023,9,Gesuba,Periphery,Business,12037,2,5,-3,-3,113,0.94,100.0
+2023-10-01,2023,10,Gesuba,Periphery,Business,12037,3,1,2,-1,123,1.02,-66.67
+2023-11-01,2023,11,Gesuba,Periphery,Business,12037,2,3,-1,-2,136,1.13,100.0
+2023-12-01,2023,12,Gesuba,Periphery,Business,12037,2,4,-2,-4,141,1.17,100.0
+2024-01-01,2024,1,Gesuba,Periphery,Business,12037,3,5,-2,-6,156,1.3,50.0
+2024-02-01,2024,2,Gesuba,Periphery,Business,12037,3,5,-2,-8,176,1.46,33.33
+2024-03-01,2024,3,Gesuba,Periphery,Business,12037,5,3,2,-6,198,1.64,-25.0
+2024-04-01,2024,4,Gesuba,Periphery,Business,12037,5,3,2,-4,225,1.87,-33.33
+2024-05-01,2024,5,Gesuba,Periphery,Business,12037,4,4,0,-4,251,2.09,-0.0
+2024-06-01,2024,6,Gesuba,Periphery,Business,12037,5,4,1,-3,275,2.28,-25.0
+2024-07-01,2024,7,Gesuba,Periphery,Business,12037,4,5,-1,-4,294,2.44,33.33
+2024-08-01,2024,8,Gesuba,Periphery,Business,12037,5,4,1,-3,318,2.64,-25.0
+2024-09-01,2024,9,Gesuba,Periphery,Business,12037,3,1,2,-1,346,2.87,-66.67
+2024-10-01,2024,10,Gesuba,Periphery,Business,12037,3,2,1,0,370,3.07,-100.0
+2024-11-01,2024,11,Gesuba,Periphery,Business,12037,3,4,-1,-1,387,3.22,100.0
+2024-12-01,2024,12,Gesuba,Periphery,Business,12037,3,4,-1,-2,405,3.36,100.0
+2023-01-01,2023,1,Gesuba,Periphery,Individual User,12037,12,1,11,11,8,0.07,100.0
+2023-02-01,2023,2,Gesuba,Periphery,Individual User,12037,11,1,10,21,19,0.16,90.91
+2023-03-01,2023,3,Gesuba,Periphery,Individual User,12037,13,5,8,29,25,0.21,38.1
+2023-04-01,2023,4,Gesuba,Periphery,Individual User,12037,16,5,11,40,37,0.31,37.93
+2023-05-01,2023,5,Gesuba,Periphery,Individual User,12037,16,5,11,51,51,0.42,27.5
+2023-06-01,2023,6,Gesuba,Periphery,Individual User,12037,16,1,15,66,72,0.6,29.41
+2023-07-01,2023,7,Gesuba,Periphery,Individual User,12037,16,4,12,78,91,0.76,18.18
+2023-08-01,2023,8,Gesuba,Periphery,Individual User,12037,15,5,10,88,103,0.86,12.82
+2023-09-01,2023,9,Gesuba,Periphery,Individual User,12037,16,4,12,100,113,0.94,13.64
+2023-10-01,2023,10,Gesuba,Periphery,Individual User,12037,10,2,8,108,123,1.02,8.0
+2023-11-01,2023,11,Gesuba,Periphery,Individual User,12037,13,0,13,121,136,1.13,12.04
+2023-12-01,2023,12,Gesuba,Periphery,Individual User,12037,10,4,6,127,141,1.17,4.96
+2024-01-01,2024,1,Gesuba,Periphery,Individual User,12037,17,3,14,141,156,1.3,11.02
+2024-02-01,2024,2,Gesuba,Periphery,Individual User,12037,19,2,17,158,176,1.46,12.06
+2024-03-01,2024,3,Gesuba,Periphery,Individual User,12037,20,3,17,175,198,1.64,10.76
+2024-04-01,2024,4,Gesuba,Periphery,Individual User,12037,19,3,16,191,225,1.87,9.14
+2024-05-01,2024,5,Gesuba,Periphery,Individual User,12037,23,3,20,211,251,2.09,10.47
+2024-06-01,2024,6,Gesuba,Periphery,Individual User,12037,19,5,14,225,275,2.28,6.64
+2024-07-01,2024,7,Gesuba,Periphery,Individual User,12037,19,4,15,240,294,2.44,6.67
+2024-08-01,2024,8,Gesuba,Periphery,Individual User,12037,23,6,17,257,318,2.64,7.08
+2024-09-01,2024,9,Gesuba,Periphery,Individual User,12037,16,0,16,273,346,2.87,6.23
+2024-10-01,2024,10,Gesuba,Periphery,Individual User,12037,15,3,12,285,370,3.07,4.4
+2024-11-01,2024,11,Gesuba,Periphery,Individual User,12037,12,0,12,297,387,3.22,4.21
+2024-12-01,2024,12,Gesuba,Periphery,Individual User,12037,16,3,13,310,405,3.36,4.38
+2023-01-01,2023,1,Gesuba,Periphery,Telebirr Adopter,12037,3,5,-2,-2,8,0.07,100.0
+2023-02-01,2023,2,Gesuba,Periphery,Telebirr Adopter,12037,4,4,0,-2,19,0.16,-0.0
+2023-03-01,2023,3,Gesuba,Periphery,Telebirr Adopter,12037,4,4,0,-2,25,0.21,-0.0
+2023-04-01,2023,4,Gesuba,Periphery,Telebirr Adopter,12037,4,2,2,0,37,0.31,-100.0
+2023-05-01,2023,5,Gesuba,Periphery,Telebirr Adopter,12037,3,2,1,1,51,0.42,100.0
+2023-06-01,2023,6,Gesuba,Periphery,Telebirr Adopter,12037,6,0,6,7,72,0.6,600.0
+2023-07-01,2023,7,Gesuba,Periphery,Telebirr Adopter,12037,7,0,7,14,91,0.76,100.0
+2023-08-01,2023,8,Gesuba,Periphery,Telebirr Adopter,12037,5,4,1,15,103,0.86,7.14
+2023-09-01,2023,9,Gesuba,Periphery,Telebirr Adopter,12037,4,3,1,16,113,0.94,6.67
+2023-10-01,2023,10,Gesuba,Periphery,Telebirr Adopter,12037,5,5,0,16,123,1.02,0.0
+2023-11-01,2023,11,Gesuba,Periphery,Telebirr Adopter,12037,5,4,1,17,136,1.13,6.25
+2023-12-01,2023,12,Gesuba,Periphery,Telebirr Adopter,12037,3,2,1,18,141,1.17,5.88
+2024-01-01,2024,1,Gesuba,Periphery,Telebirr Adopter,12037,7,4,3,21,156,1.3,16.67
+2024-02-01,2024,2,Gesuba,Periphery,Telebirr Adopter,12037,7,2,5,26,176,1.46,23.81
+2024-03-01,2024,3,Gesuba,Periphery,Telebirr Adopter,12037,6,3,3,29,198,1.64,11.54
+2024-04-01,2024,4,Gesuba,Periphery,Telebirr Adopter,12037,11,2,9,38,225,1.87,31.03
+2024-05-01,2024,5,Gesuba,Periphery,Telebirr Adopter,12037,11,5,6,44,251,2.09,15.79
+2024-06-01,2024,6,Gesuba,Periphery,Telebirr Adopter,12037,12,3,9,53,275,2.28,20.45
+2024-07-01,2024,7,Gesuba,Periphery,Telebirr Adopter,12037,10,5,5,58,294,2.44,9.43
+2024-08-01,2024,8,Gesuba,Periphery,Telebirr Adopter,12037,10,4,6,64,318,2.64,10.34
+2024-09-01,2024,9,Gesuba,Periphery,Telebirr Adopter,12037,11,1,10,74,346,2.87,15.62
+2024-10-01,2024,10,Gesuba,Periphery,Telebirr Adopter,12037,11,0,11,85,370,3.07,14.86
+2024-11-01,2024,11,Gesuba,Periphery,Telebirr Adopter,12037,6,0,6,91,387,3.22,7.06
+2024-12-01,2024,12,Gesuba,Periphery,Telebirr Adopter,12037,6,0,6,97,405,3.36,6.59
+2023-01-01,2023,1,Hembecho,Periphery,Business,18244,3,2,1,1,20,0.11,100.0
+2023-02-01,2023,2,Hembecho,Periphery,Business,18244,5,1,4,5,38,0.21,400.0
+2023-03-01,2023,3,Hembecho,Periphery,Business,18244,6,3,3,8,63,0.35,60.0
+2023-04-01,2023,4,Hembecho,Periphery,Business,18244,4,4,0,8,90,0.49,0.0
+2023-05-01,2023,5,Hembecho,Periphery,Business,18244,6,1,5,13,121,0.66,62.5
+2023-06-01,2023,6,Hembecho,Periphery,Business,18244,7,4,3,16,155,0.85,23.08
+2023-07-01,2023,7,Hembecho,Periphery,Business,18244,6,0,6,22,189,1.04,37.5
+2023-08-01,2023,8,Hembecho,Periphery,Business,18244,5,4,1,23,216,1.18,4.55
+2023-09-01,2023,9,Hembecho,Periphery,Business,18244,5,3,2,25,243,1.33,8.7
+2023-10-01,2023,10,Hembecho,Periphery,Business,18244,5,1,4,29,270,1.48,16.0
+2023-11-01,2023,11,Hembecho,Periphery,Business,18244,6,2,4,33,294,1.61,13.79
+2023-12-01,2023,12,Hembecho,Periphery,Business,18244,4,5,-1,32,307,1.68,-3.03
+2024-01-01,2024,1,Hembecho,Periphery,Business,18244,3,2,1,33,330,1.81,3.12
+2024-02-01,2024,2,Hembecho,Periphery,Business,18244,4,4,0,33,362,1.98,0.0
+2024-03-01,2024,3,Hembecho,Periphery,Business,18244,6,1,5,38,402,2.2,15.15
+2024-04-01,2024,4,Hembecho,Periphery,Business,18244,5,3,2,40,434,2.38,5.26
+2024-05-01,2024,5,Hembecho,Periphery,Business,18244,6,1,5,45,471,2.58,12.5
+2024-06-01,2024,6,Hembecho,Periphery,Business,18244,6,2,4,49,512,2.81,8.89
+2024-07-01,2024,7,Hembecho,Periphery,Business,18244,8,0,8,57,552,3.03,16.33
+2024-08-01,2024,8,Hembecho,Periphery,Business,18244,8,2,6,63,599,3.28,10.53
+2024-09-01,2024,9,Hembecho,Periphery,Business,18244,7,0,7,70,643,3.52,11.11
+2024-10-01,2024,10,Hembecho,Periphery,Business,18244,5,1,4,74,682,3.74,5.71
+2024-11-01,2024,11,Hembecho,Periphery,Business,18244,5,0,5,79,711,3.9,6.76
+2024-12-01,2024,12,Hembecho,Periphery,Business,18244,3,2,1,80,740,4.06,1.27
+2023-01-01,2023,1,Hembecho,Periphery,Individual User,18244,17,1,16,16,20,0.11,100.0
+2023-02-01,2023,2,Hembecho,Periphery,Individual User,18244,18,2,16,32,38,0.21,100.0
+2023-03-01,2023,3,Hembecho,Periphery,Individual User,18244,16,1,15,47,63,0.35,46.88
+2023-04-01,2023,4,Hembecho,Periphery,Individual User,18244,26,3,23,70,90,0.49,48.94
+2023-05-01,2023,5,Hembecho,Periphery,Individual User,18244,25,5,20,90,121,0.66,28.57
+2023-06-01,2023,6,Hembecho,Periphery,Individual User,18244,32,6,26,116,155,0.85,28.89
+2023-07-01,2023,7,Hembecho,Periphery,Individual User,18244,25,5,20,136,189,1.04,17.24
+2023-08-01,2023,8,Hembecho,Periphery,Individual User,18244,23,2,21,157,216,1.18,15.44
+2023-09-01,2023,9,Hembecho,Periphery,Individual User,18244,26,6,20,177,243,1.33,12.74
+2023-10-01,2023,10,Hembecho,Periphery,Individual User,18244,17,1,16,193,270,1.48,9.04
+2023-11-01,2023,11,Hembecho,Periphery,Individual User,18244,17,4,13,206,294,1.61,6.74
+2023-12-01,2023,12,Hembecho,Periphery,Individual User,18244,14,3,11,217,307,1.68,5.34
+2024-01-01,2024,1,Hembecho,Periphery,Individual User,18244,17,5,12,229,330,1.81,5.53
+2024-02-01,2024,2,Hembecho,Periphery,Individual User,18244,24,4,20,249,362,1.98,8.73
+2024-03-01,2024,3,Hembecho,Periphery,Individual User,18244,25,1,24,273,402,2.2,9.64
+2024-04-01,2024,4,Hembecho,Periphery,Individual User,18244,25,6,19,292,434,2.38,6.96
+2024-05-01,2024,5,Hembecho,Periphery,Individual User,18244,26,3,23,315,471,2.58,7.88
+2024-06-01,2024,6,Hembecho,Periphery,Individual User,18244,32,4,28,343,512,2.81,8.89
+2024-07-01,2024,7,Hembecho,Periphery,Individual User,18244,25,5,20,363,552,3.03,5.83
+2024-08-01,2024,8,Hembecho,Periphery,Individual User,18244,26,2,24,387,599,3.28,6.61
+2024-09-01,2024,9,Hembecho,Periphery,Individual User,18244,27,2,25,412,643,3.52,6.46
+2024-10-01,2024,10,Hembecho,Periphery,Individual User,18244,25,1,24,436,682,3.74,5.83
+2024-11-01,2024,11,Hembecho,Periphery,Individual User,18244,19,4,15,451,711,3.9,3.44
+2024-12-01,2024,12,Hembecho,Periphery,Individual User,18244,24,4,20,471,740,4.06,4.43
+2023-01-01,2023,1,Hembecho,Periphery,Telebirr Adopter,18244,5,2,3,3,20,0.11,100.0
+2023-02-01,2023,2,Hembecho,Periphery,Telebirr Adopter,18244,3,5,-2,1,38,0.21,-66.67
+2023-03-01,2023,3,Hembecho,Periphery,Telebirr Adopter,18244,7,0,7,8,63,0.35,700.0
+2023-04-01,2023,4,Hembecho,Periphery,Telebirr Adopter,18244,8,4,4,12,90,0.49,50.0
+2023-05-01,2023,5,Hembecho,Periphery,Telebirr Adopter,18244,11,5,6,18,121,0.66,50.0
+2023-06-01,2023,6,Hembecho,Periphery,Telebirr Adopter,18244,5,0,5,23,155,0.85,27.78
+2023-07-01,2023,7,Hembecho,Periphery,Telebirr Adopter,18244,9,1,8,31,189,1.04,34.78
+2023-08-01,2023,8,Hembecho,Periphery,Telebirr Adopter,18244,7,2,5,36,216,1.18,16.13
+2023-09-01,2023,9,Hembecho,Periphery,Telebirr Adopter,18244,7,2,5,41,243,1.33,13.89
+2023-10-01,2023,10,Hembecho,Periphery,Telebirr Adopter,18244,8,1,7,48,270,1.48,17.07
+2023-11-01,2023,11,Hembecho,Periphery,Telebirr Adopter,18244,7,0,7,55,294,1.61,14.58
+2023-12-01,2023,12,Hembecho,Periphery,Telebirr Adopter,18244,5,2,3,58,307,1.68,5.45
+2024-01-01,2024,1,Hembecho,Periphery,Telebirr Adopter,18244,11,1,10,68,330,1.81,17.24
+2024-02-01,2024,2,Hembecho,Periphery,Telebirr Adopter,18244,17,5,12,80,362,1.98,17.65
+2024-03-01,2024,3,Hembecho,Periphery,Telebirr Adopter,18244,14,3,11,91,402,2.2,13.75
+2024-04-01,2024,4,Hembecho,Periphery,Telebirr Adopter,18244,12,1,11,102,434,2.38,12.09
+2024-05-01,2024,5,Hembecho,Periphery,Telebirr Adopter,18244,13,4,9,111,471,2.58,8.82
+2024-06-01,2024,6,Hembecho,Periphery,Telebirr Adopter,18244,14,5,9,120,512,2.81,8.11
+2024-07-01,2024,7,Hembecho,Periphery,Telebirr Adopter,18244,16,4,12,132,552,3.03,10.0
+2024-08-01,2024,8,Hembecho,Periphery,Telebirr Adopter,18244,17,0,17,149,599,3.28,12.88
+2024-09-01,2024,9,Hembecho,Periphery,Telebirr Adopter,18244,14,2,12,161,643,3.52,8.05
+2024-10-01,2024,10,Hembecho,Periphery,Telebirr Adopter,18244,12,1,11,172,682,3.74,6.83
+2024-11-01,2024,11,Hembecho,Periphery,Telebirr Adopter,18244,12,3,9,181,711,3.9,5.23
+2024-12-01,2024,12,Hembecho,Periphery,Telebirr Adopter,18244,10,2,8,189,740,4.06,4.42
+2023-01-01,2023,1,Humbo-Aba,Periphery,Business,16129,5,1,4,4,25,0.16,100.0
+2023-02-01,2023,2,Humbo-Aba,Periphery,Business,16129,5,0,5,9,57,0.35,125.0
+2023-03-01,2023,3,Humbo-Aba,Periphery,Business,16129,7,1,6,15,88,0.55,66.67
+2023-04-01,2023,4,Humbo-Aba,Periphery,Business,16129,6,4,2,17,130,0.81,13.33
+2023-05-01,2023,5,Humbo-Aba,Periphery,Business,16129,5,3,2,19,167,1.04,11.76
+2023-06-01,2023,6,Humbo-Aba,Periphery,Business,16129,7,2,5,24,199,1.23,26.32
+2023-07-01,2023,7,Humbo-Aba,Periphery,Business,16129,8,0,8,32,246,1.53,33.33
+2023-08-01,2023,8,Humbo-Aba,Periphery,Business,16129,7,4,3,35,279,1.73,9.38
+2023-09-01,2023,9,Humbo-Aba,Periphery,Business,16129,6,0,6,41,315,1.95,17.14
+2023-10-01,2023,10,Humbo-Aba,Periphery,Business,16129,5,3,2,43,344,2.13,4.88
+2023-11-01,2023,11,Humbo-Aba,Periphery,Business,16129,4,2,2,45,376,2.33,4.65
+2023-12-01,2023,12,Humbo-Aba,Periphery,Business,16129,6,4,2,47,401,2.49,4.44
+2024-01-01,2024,1,Humbo-Aba,Periphery,Business,16129,9,5,4,51,442,2.74,8.51
+2024-02-01,2024,2,Humbo-Aba,Periphery,Business,16129,7,3,4,55,484,3.0,7.84
+2024-03-01,2024,3,Humbo-Aba,Periphery,Business,16129,7,5,2,57,521,3.23,3.64
+2024-04-01,2024,4,Humbo-Aba,Periphery,Business,16129,8,2,6,63,580,3.6,10.53
+2024-05-01,2024,5,Humbo-Aba,Periphery,Business,16129,9,3,6,69,653,4.05,9.52
+2024-06-01,2024,6,Humbo-Aba,Periphery,Business,16129,11,3,8,77,707,4.38,11.59
+2024-07-01,2024,7,Humbo-Aba,Periphery,Business,16129,11,3,8,85,771,4.78,10.39
+2024-08-01,2024,8,Humbo-Aba,Periphery,Business,16129,10,2,8,93,828,5.13,9.41
+2024-09-01,2024,9,Humbo-Aba,Periphery,Business,16129,8,2,6,99,887,5.5,6.45
+2024-10-01,2024,10,Humbo-Aba,Periphery,Business,16129,7,2,5,104,934,5.79,5.05
+2024-11-01,2024,11,Humbo-Aba,Periphery,Business,16129,7,5,2,106,972,6.03,1.92
+2024-12-01,2024,12,Humbo-Aba,Periphery,Business,16129,8,0,8,114,1014,6.29,7.55
+2023-01-01,2023,1,Humbo-Aba,Periphery,Individual User,16129,21,2,19,19,25,0.16,100.0
+2023-02-01,2023,2,Humbo-Aba,Periphery,Individual User,16129,24,4,20,39,57,0.35,105.26
+2023-03-01,2023,3,Humbo-Aba,Periphery,Individual User,16129,22,2,20,59,88,0.55,51.28
+2023-04-01,2023,4,Humbo-Aba,Periphery,Individual User,16129,35,4,31,90,130,0.81,52.54
+2023-05-01,2023,5,Humbo-Aba,Periphery,Individual User,16129,34,4,30,120,167,1.04,33.33
+2023-06-01,2023,6,Humbo-Aba,Periphery,Individual User,16129,24,4,20,140,199,1.23,16.67
+2023-07-01,2023,7,Humbo-Aba,Periphery,Individual User,16129,34,5,29,169,246,1.53,20.71
+2023-08-01,2023,8,Humbo-Aba,Periphery,Individual User,16129,27,6,21,190,279,1.73,12.43
+2023-09-01,2023,9,Humbo-Aba,Periphery,Individual User,16129,26,5,21,211,315,1.95,11.05
+2023-10-01,2023,10,Humbo-Aba,Periphery,Individual User,16129,20,0,20,231,344,2.13,9.48
+2023-11-01,2023,11,Humbo-Aba,Periphery,Individual User,16129,22,2,20,251,376,2.33,8.66
+2023-12-01,2023,12,Humbo-Aba,Periphery,Individual User,16129,19,3,16,267,401,2.49,6.37
+2024-01-01,2024,1,Humbo-Aba,Periphery,Individual User,16129,29,2,27,294,442,2.74,10.11
+2024-02-01,2024,2,Humbo-Aba,Periphery,Individual User,16129,29,5,24,318,484,3.0,8.16
+2024-03-01,2024,3,Humbo-Aba,Periphery,Individual User,16129,31,5,26,344,521,3.23,8.18
+2024-04-01,2024,4,Humbo-Aba,Periphery,Individual User,16129,37,4,33,377,580,3.6,9.59
+2024-05-01,2024,5,Humbo-Aba,Periphery,Individual User,16129,53,5,48,425,653,4.05,12.73
+2024-06-01,2024,6,Humbo-Aba,Periphery,Individual User,16129,36,4,32,457,707,4.38,7.53
+2024-07-01,2024,7,Humbo-Aba,Periphery,Individual User,16129,35,4,31,488,771,4.78,6.78
+2024-08-01,2024,8,Humbo-Aba,Periphery,Individual User,16129,37,5,32,520,828,5.13,6.56
+2024-09-01,2024,9,Humbo-Aba,Periphery,Individual User,16129,36,5,31,551,887,5.5,5.96
+2024-10-01,2024,10,Humbo-Aba,Periphery,Individual User,16129,33,2,31,582,934,5.79,5.63
+2024-11-01,2024,11,Humbo-Aba,Periphery,Individual User,16129,28,4,24,606,972,6.03,4.12
+2024-12-01,2024,12,Humbo-Aba,Periphery,Individual User,16129,24,4,20,626,1014,6.29,3.3
+2023-01-01,2023,1,Humbo-Aba,Periphery,Telebirr Adopter,16129,5,3,2,2,25,0.16,100.0
+2023-02-01,2023,2,Humbo-Aba,Periphery,Telebirr Adopter,16129,7,0,7,9,57,0.35,350.0
+2023-03-01,2023,3,Humbo-Aba,Periphery,Telebirr Adopter,16129,7,2,5,14,88,0.55,55.56
+2023-04-01,2023,4,Humbo-Aba,Periphery,Telebirr Adopter,16129,12,3,9,23,130,0.81,64.29
+2023-05-01,2023,5,Humbo-Aba,Periphery,Telebirr Adopter,16129,8,3,5,28,167,1.04,21.74
+2023-06-01,2023,6,Humbo-Aba,Periphery,Telebirr Adopter,16129,10,3,7,35,199,1.23,25.0
+2023-07-01,2023,7,Humbo-Aba,Periphery,Telebirr Adopter,16129,13,3,10,45,246,1.53,28.57
+2023-08-01,2023,8,Humbo-Aba,Periphery,Telebirr Adopter,16129,9,0,9,54,279,1.73,20.0
+2023-09-01,2023,9,Humbo-Aba,Periphery,Telebirr Adopter,16129,9,0,9,63,315,1.95,16.67
+2023-10-01,2023,10,Humbo-Aba,Periphery,Telebirr Adopter,16129,7,0,7,70,344,2.13,11.11
+2023-11-01,2023,11,Humbo-Aba,Periphery,Telebirr Adopter,16129,10,0,10,80,376,2.33,14.29
+2023-12-01,2023,12,Humbo-Aba,Periphery,Telebirr Adopter,16129,7,0,7,87,401,2.49,8.75
+2024-01-01,2024,1,Humbo-Aba,Periphery,Telebirr Adopter,16129,15,5,10,97,442,2.74,11.49
+2024-02-01,2024,2,Humbo-Aba,Periphery,Telebirr Adopter,16129,19,5,14,111,484,3.0,14.43
+2024-03-01,2024,3,Humbo-Aba,Periphery,Telebirr Adopter,16129,14,5,9,120,521,3.23,8.11
+2024-04-01,2024,4,Humbo-Aba,Periphery,Telebirr Adopter,16129,20,0,20,140,580,3.6,16.67
+2024-05-01,2024,5,Humbo-Aba,Periphery,Telebirr Adopter,16129,25,6,19,159,653,4.05,13.57
+2024-06-01,2024,6,Humbo-Aba,Periphery,Telebirr Adopter,16129,19,5,14,173,707,4.38,8.81
+2024-07-01,2024,7,Humbo-Aba,Periphery,Telebirr Adopter,16129,26,1,25,198,771,4.78,14.45
+2024-08-01,2024,8,Humbo-Aba,Periphery,Telebirr Adopter,16129,17,0,17,215,828,5.13,8.59
+2024-09-01,2024,9,Humbo-Aba,Periphery,Telebirr Adopter,16129,23,1,22,237,887,5.5,10.23
+2024-10-01,2024,10,Humbo-Aba,Periphery,Telebirr Adopter,16129,16,5,11,248,934,5.79,4.64
+2024-11-01,2024,11,Humbo-Aba,Periphery,Telebirr Adopter,16129,14,2,12,260,972,6.03,4.84
+2024-12-01,2024,12,Humbo-Aba,Periphery,Telebirr Adopter,16129,16,2,14,274,1014,6.29,5.38
+2023-01-01,2023,1,Larena Amba,Urban,Business,16010,5,2,3,3,23,0.14,100.0
+2023-02-01,2023,2,Larena Amba,Urban,Business,16010,6,0,6,9,58,0.36,200.0
+2023-03-01,2023,3,Larena Amba,Urban,Business,16010,5,4,1,10,84,0.52,11.11
+2023-04-01,2023,4,Larena Amba,Urban,Business,16010,8,2,6,16,123,0.77,60.0
+2023-05-01,2023,5,Larena Amba,Urban,Business,16010,7,1,6,22,158,0.99,37.5
+2023-06-01,2023,6,Larena Amba,Urban,Business,16010,8,0,8,30,209,1.31,36.36
+2023-07-01,2023,7,Larena Amba,Urban,Business,16010,7,2,5,35,252,1.57,16.67
+2023-08-01,2023,8,Larena Amba,Urban,Business,16010,5,1,4,39,287,1.79,11.43
+2023-09-01,2023,9,Larena Amba,Urban,Business,16010,6,4,2,41,315,1.97,5.13
+2023-10-01,2023,10,Larena Amba,Urban,Business,16010,5,1,4,45,351,2.19,9.76
+2023-11-01,2023,11,Larena Amba,Urban,Business,16010,7,1,6,51,374,2.34,13.33
+2023-12-01,2023,12,Larena Amba,Urban,Business,16010,4,1,3,54,396,2.47,5.88
+2024-01-01,2024,1,Larena Amba,Urban,Business,16010,6,3,3,57,429,2.68,5.56
+2024-02-01,2024,2,Larena Amba,Urban,Business,16010,6,1,5,62,479,2.99,8.77
+2024-03-01,2024,3,Larena Amba,Urban,Business,16010,7,4,3,65,527,3.29,4.84
+2024-04-01,2024,4,Larena Amba,Urban,Business,16010,10,2,8,73,574,3.59,12.31
+2024-05-01,2024,5,Larena Amba,Urban,Business,16010,10,0,10,83,630,3.94,13.7
+2024-06-01,2024,6,Larena Amba,Urban,Business,16010,7,4,3,86,688,4.3,3.61
+2024-07-01,2024,7,Larena Amba,Urban,Business,16010,8,4,4,90,751,4.69,4.65
+2024-08-01,2024,8,Larena Amba,Urban,Business,16010,8,3,5,95,802,5.01,5.56
+2024-09-01,2024,9,Larena Amba,Urban,Business,16010,7,2,5,100,866,5.41,5.26
+2024-10-01,2024,10,Larena Amba,Urban,Business,16010,8,3,5,105,910,5.68,5.0
+2024-11-01,2024,11,Larena Amba,Urban,Business,16010,8,1,7,112,954,5.96,6.67
+2024-12-01,2024,12,Larena Amba,Urban,Business,16010,7,2,5,117,990,6.18,4.46
+2023-01-01,2023,1,Larena Amba,Urban,Individual User,16010,23,5,18,18,23,0.14,100.0
+2023-02-01,2023,2,Larena Amba,Urban,Individual User,16010,27,2,25,43,58,0.36,138.89
+2023-03-01,2023,3,Larena Amba,Urban,Individual User,16010,25,4,21,64,84,0.52,48.84
+2023-04-01,2023,4,Larena Amba,Urban,Individual User,16010,30,3,27,91,123,0.77,42.19
+2023-05-01,2023,5,Larena Amba,Urban,Individual User,16010,24,5,19,110,158,0.99,20.88
+2023-06-01,2023,6,Larena Amba,Urban,Individual User,16010,42,4,38,148,209,1.31,34.55
+2023-07-01,2023,7,Larena Amba,Urban,Individual User,16010,29,2,27,175,252,1.57,18.24
+2023-08-01,2023,8,Larena Amba,Urban,Individual User,16010,24,3,21,196,287,1.79,12.0
+2023-09-01,2023,9,Larena Amba,Urban,Individual User,16010,23,6,17,213,315,1.97,8.67
+2023-10-01,2023,10,Larena Amba,Urban,Individual User,16010,25,4,21,234,351,2.19,9.86
+2023-11-01,2023,11,Larena Amba,Urban,Individual User,16010,17,5,12,246,374,2.34,5.13
+2023-12-01,2023,12,Larena Amba,Urban,Individual User,16010,19,5,14,260,396,2.47,5.69
+2024-01-01,2024,1,Larena Amba,Urban,Individual User,16010,24,4,20,280,429,2.68,7.69
+2024-02-01,2024,2,Larena Amba,Urban,Individual User,16010,34,4,30,310,479,2.99,10.71
+2024-03-01,2024,3,Larena Amba,Urban,Individual User,16010,26,3,23,333,527,3.29,7.42
+2024-04-01,2024,4,Larena Amba,Urban,Individual User,16010,29,4,25,358,574,3.59,7.51
+2024-05-01,2024,5,Larena Amba,Urban,Individual User,16010,34,6,28,386,630,3.94,7.82
+2024-06-01,2024,6,Larena Amba,Urban,Individual User,16010,43,7,36,422,688,4.3,9.33
+2024-07-01,2024,7,Larena Amba,Urban,Individual User,16010,45,6,39,461,751,4.69,9.24
+2024-08-01,2024,8,Larena Amba,Urban,Individual User,16010,33,3,30,491,802,5.01,6.51
+2024-09-01,2024,9,Larena Amba,Urban,Individual User,16010,43,3,40,531,866,5.41,8.15
+2024-10-01,2024,10,Larena Amba,Urban,Individual User,16010,29,4,25,556,910,5.68,4.71
+2024-11-01,2024,11,Larena Amba,Urban,Individual User,16010,29,6,23,579,954,5.96,4.14
+2024-12-01,2024,12,Larena Amba,Urban,Individual User,16010,25,6,19,598,990,6.18,3.28
+2023-01-01,2023,1,Larena Amba,Urban,Telebirr Adopter,16010,6,4,2,2,23,0.14,100.0
+2023-02-01,2023,2,Larena Amba,Urban,Telebirr Adopter,16010,6,2,4,6,58,0.36,200.0
+2023-03-01,2023,3,Larena Amba,Urban,Telebirr Adopter,16010,7,3,4,10,84,0.52,66.67
+2023-04-01,2023,4,Larena Amba,Urban,Telebirr Adopter,16010,7,1,6,16,123,0.77,60.0
+2023-05-01,2023,5,Larena Amba,Urban,Telebirr Adopter,16010,10,0,10,26,158,0.99,62.5
+2023-06-01,2023,6,Larena Amba,Urban,Telebirr Adopter,16010,6,1,5,31,209,1.31,19.23
+2023-07-01,2023,7,Larena Amba,Urban,Telebirr Adopter,16010,12,1,11,42,252,1.57,35.48
+2023-08-01,2023,8,Larena Amba,Urban,Telebirr Adopter,16010,12,2,10,52,287,1.79,23.81
+2023-09-01,2023,9,Larena Amba,Urban,Telebirr Adopter,16010,10,1,9,61,315,1.97,17.31
+2023-10-01,2023,10,Larena Amba,Urban,Telebirr Adopter,16010,11,0,11,72,351,2.19,18.03
+2023-11-01,2023,11,Larena Amba,Urban,Telebirr Adopter,16010,8,3,5,77,374,2.34,6.94
+2023-12-01,2023,12,Larena Amba,Urban,Telebirr Adopter,16010,7,2,5,82,396,2.47,6.49
+2024-01-01,2024,1,Larena Amba,Urban,Telebirr Adopter,16010,15,5,10,92,429,2.68,12.2
+2024-02-01,2024,2,Larena Amba,Urban,Telebirr Adopter,16010,16,1,15,107,479,2.99,16.3
+2024-03-01,2024,3,Larena Amba,Urban,Telebirr Adopter,16010,23,1,22,129,527,3.29,20.56
+2024-04-01,2024,4,Larena Amba,Urban,Telebirr Adopter,16010,19,5,14,143,574,3.59,10.85
+2024-05-01,2024,5,Larena Amba,Urban,Telebirr Adopter,16010,18,0,18,161,630,3.94,12.59
+2024-06-01,2024,6,Larena Amba,Urban,Telebirr Adopter,16010,19,0,19,180,688,4.3,11.8
+2024-07-01,2024,7,Larena Amba,Urban,Telebirr Adopter,16010,26,6,20,200,751,4.69,11.11
+2024-08-01,2024,8,Larena Amba,Urban,Telebirr Adopter,16010,21,5,16,216,802,5.01,8.0
+2024-09-01,2024,9,Larena Amba,Urban,Telebirr Adopter,16010,19,0,19,235,866,5.41,8.8
+2024-10-01,2024,10,Larena Amba,Urban,Telebirr Adopter,16010,17,3,14,249,910,5.68,5.96
+2024-11-01,2024,11,Larena Amba,Urban,Telebirr Adopter,16010,17,3,14,263,954,5.96,5.62
+2024-12-01,2024,12,Larena Amba,Urban,Telebirr Adopter,16010,16,4,12,275,990,6.18,4.56
+2023-01-01,2023,1,Mehal Amba,Urban,Business,21132,5,5,0,0,36,0.17,100.0
+2023-02-01,2023,2,Mehal Amba,Urban,Business,21132,8,2,6,6,80,0.38,100.0
+2023-03-01,2023,3,Mehal Amba,Urban,Business,21132,8,2,6,12,122,0.58,100.0
+2023-04-01,2023,4,Mehal Amba,Urban,Business,21132,10,1,9,21,171,0.81,75.0
+2023-05-01,2023,5,Mehal Amba,Urban,Business,21132,8,5,3,24,224,1.06,14.29
+2023-06-01,2023,6,Mehal Amba,Urban,Business,21132,9,1,8,32,285,1.35,33.33
+2023-07-01,2023,7,Mehal Amba,Urban,Business,21132,8,4,4,36,355,1.68,12.5
+2023-08-01,2023,8,Mehal Amba,Urban,Business,21132,11,1,10,46,416,1.97,27.78
+2023-09-01,2023,9,Mehal Amba,Urban,Business,21132,10,2,8,54,478,2.26,17.39
+2023-10-01,2023,10,Mehal Amba,Urban,Business,21132,9,2,7,61,527,2.49,12.96
+2023-11-01,2023,11,Mehal Amba,Urban,Business,21132,7,2,5,66,567,2.68,8.2
+2023-12-01,2023,12,Mehal Amba,Urban,Business,21132,7,0,7,73,599,2.83,10.61
+2024-01-01,2024,1,Mehal Amba,Urban,Business,21132,9,4,5,78,663,3.14,6.85
+2024-02-01,2024,2,Mehal Amba,Urban,Business,21132,9,4,5,83,717,3.39,6.41
+2024-03-01,2024,3,Mehal Amba,Urban,Business,21132,8,1,7,90,787,3.72,8.43
+2024-04-01,2024,4,Mehal Amba,Urban,Business,21132,13,3,10,100,861,4.07,11.11
+2024-05-01,2024,5,Mehal Amba,Urban,Business,21132,10,1,9,109,958,4.53,9.0
+2024-06-01,2024,6,Mehal Amba,Urban,Business,21132,13,0,13,122,1048,4.96,11.93
+2024-07-01,2024,7,Mehal Amba,Urban,Business,21132,12,2,10,132,1151,5.45,8.2
+2024-08-01,2024,8,Mehal Amba,Urban,Business,21132,13,2,11,143,1242,5.88,8.33
+2024-09-01,2024,9,Mehal Amba,Urban,Business,21132,14,4,10,153,1319,6.24,6.99
+2024-10-01,2024,10,Mehal Amba,Urban,Business,21132,11,4,7,160,1386,6.56,4.58
+2024-11-01,2024,11,Mehal Amba,Urban,Business,21132,8,4,4,164,1448,6.85,2.5
+2024-12-01,2024,12,Mehal Amba,Urban,Business,21132,11,1,10,174,1505,7.12,6.1
+2023-01-01,2023,1,Mehal Amba,Urban,Individual User,21132,31,2,29,29,36,0.17,100.0
+2023-02-01,2023,2,Mehal Amba,Urban,Individual User,21132,31,4,27,56,80,0.38,93.1
+2023-03-01,2023,3,Mehal Amba,Urban,Individual User,21132,34,5,29,85,122,0.58,51.79
+2023-04-01,2023,4,Mehal Amba,Urban,Individual User,21132,32,1,31,116,171,0.81,36.47
+2023-05-01,2023,5,Mehal Amba,Urban,Individual User,21132,44,2,42,158,224,1.06,36.21
+2023-06-01,2023,6,Mehal Amba,Urban,Individual User,21132,45,3,42,200,285,1.35,26.58
+2023-07-01,2023,7,Mehal Amba,Urban,Individual User,21132,53,2,51,251,355,1.68,25.5
+2023-08-01,2023,8,Mehal Amba,Urban,Individual User,21132,45,5,40,291,416,1.97,15.94
+2023-09-01,2023,9,Mehal Amba,Urban,Individual User,21132,44,4,40,331,478,2.26,13.75
+2023-10-01,2023,10,Mehal Amba,Urban,Individual User,21132,33,3,30,361,527,2.49,9.06
+2023-11-01,2023,11,Mehal Amba,Urban,Individual User,21132,27,3,24,385,567,2.68,6.65
+2023-12-01,2023,12,Mehal Amba,Urban,Individual User,21132,25,4,21,406,599,2.83,5.45
+2024-01-01,2024,1,Mehal Amba,Urban,Individual User,21132,44,3,41,447,663,3.14,10.1
+2024-02-01,2024,2,Mehal Amba,Urban,Individual User,21132,35,6,29,476,717,3.39,6.49
+2024-03-01,2024,3,Mehal Amba,Urban,Individual User,21132,44,3,41,517,787,3.72,8.61
+2024-04-01,2024,4,Mehal Amba,Urban,Individual User,21132,47,7,40,557,861,4.07,7.74
+2024-05-01,2024,5,Mehal Amba,Urban,Individual User,21132,57,3,54,611,958,4.53,9.69
+2024-06-01,2024,6,Mehal Amba,Urban,Individual User,21132,53,6,47,658,1048,4.96,7.69
+2024-07-01,2024,7,Mehal Amba,Urban,Individual User,21132,72,6,66,724,1151,5.45,10.03
+2024-08-01,2024,8,Mehal Amba,Urban,Individual User,21132,53,6,47,771,1242,5.88,6.49
+2024-09-01,2024,9,Mehal Amba,Urban,Individual User,21132,47,2,45,816,1319,6.24,5.84
+2024-10-01,2024,10,Mehal Amba,Urban,Individual User,21132,44,4,40,856,1386,6.56,4.9
+2024-11-01,2024,11,Mehal Amba,Urban,Individual User,21132,38,1,37,893,1448,6.85,4.32
+2024-12-01,2024,12,Mehal Amba,Urban,Individual User,21132,28,1,27,920,1505,7.12,3.02
+2023-01-01,2023,1,Mehal Amba,Urban,Telebirr Adopter,21132,7,0,7,7,36,0.17,100.0
+2023-02-01,2023,2,Mehal Amba,Urban,Telebirr Adopter,21132,11,0,11,18,80,0.38,157.14
+2023-03-01,2023,3,Mehal Amba,Urban,Telebirr Adopter,21132,11,4,7,25,122,0.58,38.89
+2023-04-01,2023,4,Mehal Amba,Urban,Telebirr Adopter,21132,13,4,9,34,171,0.81,36.0
+2023-05-01,2023,5,Mehal Amba,Urban,Telebirr Adopter,21132,13,5,8,42,224,1.06,23.53
+2023-06-01,2023,6,Mehal Amba,Urban,Telebirr Adopter,21132,15,4,11,53,285,1.35,26.19
+2023-07-01,2023,7,Mehal Amba,Urban,Telebirr Adopter,21132,21,6,15,68,355,1.68,28.3
+2023-08-01,2023,8,Mehal Amba,Urban,Telebirr Adopter,21132,16,5,11,79,416,1.97,16.18
+2023-09-01,2023,9,Mehal Amba,Urban,Telebirr Adopter,21132,18,4,14,93,478,2.26,17.72
+2023-10-01,2023,10,Mehal Amba,Urban,Telebirr Adopter,21132,12,0,12,105,527,2.49,12.9
+2023-11-01,2023,11,Mehal Amba,Urban,Telebirr Adopter,21132,11,0,11,116,567,2.68,10.48
+2023-12-01,2023,12,Mehal Amba,Urban,Telebirr Adopter,21132,9,5,4,120,599,2.83,3.45
+2024-01-01,2024,1,Mehal Amba,Urban,Telebirr Adopter,21132,22,4,18,138,663,3.14,15.0
+2024-02-01,2024,2,Mehal Amba,Urban,Telebirr Adopter,21132,24,4,20,158,717,3.39,14.49
+2024-03-01,2024,3,Mehal Amba,Urban,Telebirr Adopter,21132,24,2,22,180,787,3.72,13.92
+2024-04-01,2024,4,Mehal Amba,Urban,Telebirr Adopter,21132,30,6,24,204,861,4.07,13.33
+2024-05-01,2024,5,Mehal Amba,Urban,Telebirr Adopter,21132,35,1,34,238,958,4.53,16.67
+2024-06-01,2024,6,Mehal Amba,Urban,Telebirr Adopter,21132,33,3,30,268,1048,4.96,12.61
+2024-07-01,2024,7,Mehal Amba,Urban,Telebirr Adopter,21132,28,1,27,295,1151,5.45,10.07
+2024-08-01,2024,8,Mehal Amba,Urban,Telebirr Adopter,21132,37,4,33,328,1242,5.88,11.19
+2024-09-01,2024,9,Mehal Amba,Urban,Telebirr Adopter,21132,25,3,22,350,1319,6.24,6.71
+2024-10-01,2024,10,Mehal Amba,Urban,Telebirr Adopter,21132,24,4,20,370,1386,6.56,5.71
+2024-11-01,2024,11,Mehal Amba,Urban,Telebirr Adopter,21132,23,2,21,391,1448,6.85,5.68
+2024-12-01,2024,12,Mehal Amba,Urban,Telebirr Adopter,21132,24,4,20,411,1505,7.12,5.12
+2023-01-01,2023,1,Merkato Yushuwa,Urban,Business,22463,7,5,2,2,43,0.19,100.0
+2023-02-01,2023,2,Merkato Yushuwa,Urban,Business,22463,9,4,5,7,87,0.39,250.0
+2023-03-01,2023,3,Merkato Yushuwa,Urban,Business,22463,13,5,8,15,146,0.65,114.29
+2023-04-01,2023,4,Merkato Yushuwa,Urban,Business,22463,12,0,12,27,213,0.95,80.0
+2023-05-01,2023,5,Merkato Yushuwa,Urban,Business,22463,10,1,9,36,289,1.29,33.33
+2023-06-01,2023,6,Merkato Yushuwa,Urban,Business,22463,12,1,11,47,354,1.58,30.56
+2023-07-01,2023,7,Merkato Yushuwa,Urban,Business,22463,12,0,12,59,411,1.83,25.53
+2023-08-01,2023,8,Merkato Yushuwa,Urban,Business,22463,10,2,8,67,474,2.11,13.56
+2023-09-01,2023,9,Merkato Yushuwa,Urban,Business,22463,12,5,7,74,531,2.36,10.45
+2023-10-01,2023,10,Merkato Yushuwa,Urban,Business,22463,12,1,11,85,597,2.66,14.86
+2023-11-01,2023,11,Merkato Yushuwa,Urban,Business,22463,9,2,7,92,644,2.87,8.24
+2023-12-01,2023,12,Merkato Yushuwa,Urban,Business,22463,8,4,4,96,690,3.07,4.35
+2024-01-01,2024,1,Merkato Yushuwa,Urban,Business,22463,10,1,9,105,751,3.34,9.38
+2024-02-01,2024,2,Merkato Yushuwa,Urban,Business,22463,10,4,6,111,837,3.73,5.71
+2024-03-01,2024,3,Merkato Yushuwa,Urban,Business,22463,8,5,3,114,914,4.07,2.7
+2024-04-01,2024,4,Merkato Yushuwa,Urban,Business,22463,17,3,14,128,1006,4.48,12.28
+2024-05-01,2024,5,Merkato Yushuwa,Urban,Business,22463,16,1,15,143,1119,4.98,11.72
+2024-06-01,2024,6,Merkato Yushuwa,Urban,Business,22463,12,3,9,152,1220,5.43,6.29
+2024-07-01,2024,7,Merkato Yushuwa,Urban,Business,22463,19,2,17,169,1338,5.96,11.18
+2024-08-01,2024,8,Merkato Yushuwa,Urban,Business,22463,13,4,9,178,1420,6.32,5.33
+2024-09-01,2024,9,Merkato Yushuwa,Urban,Business,22463,14,1,13,191,1507,6.71,7.3
+2024-10-01,2024,10,Merkato Yushuwa,Urban,Business,22463,14,4,10,201,1589,7.07,5.24
+2024-11-01,2024,11,Merkato Yushuwa,Urban,Business,22463,12,1,11,212,1664,7.41,5.47
+2024-12-01,2024,12,Merkato Yushuwa,Urban,Business,22463,11,5,6,218,1726,7.68,2.83
+2023-01-01,2023,1,Merkato Yushuwa,Urban,Individual User,22463,32,1,31,31,43,0.19,100.0
+2023-02-01,2023,2,Merkato Yushuwa,Urban,Individual User,22463,36,2,34,65,87,0.39,109.68
+2023-03-01,2023,3,Merkato Yushuwa,Urban,Individual User,22463,45,2,43,108,146,0.65,66.15
+2023-04-01,2023,4,Merkato Yushuwa,Urban,Individual User,22463,49,2,47,155,213,0.95,43.52
+2023-05-01,2023,5,Merkato Yushuwa,Urban,Individual User,22463,53,2,51,206,289,1.29,32.9
+2023-06-01,2023,6,Merkato Yushuwa,Urban,Individual User,22463,45,5,40,246,354,1.58,19.42
+2023-07-01,2023,7,Merkato Yushuwa,Urban,Individual User,22463,35,5,30,276,411,1.83,12.2
+2023-08-01,2023,8,Merkato Yushuwa,Urban,Individual User,22463,47,7,40,316,474,2.11,14.49
+2023-09-01,2023,9,Merkato Yushuwa,Urban,Individual User,22463,38,2,36,352,531,2.36,11.39
+2023-10-01,2023,10,Merkato Yushuwa,Urban,Individual User,22463,50,4,46,398,597,2.66,13.07
+2023-11-01,2023,11,Merkato Yushuwa,Urban,Individual User,22463,34,3,31,429,644,2.87,7.79
+2023-12-01,2023,12,Merkato Yushuwa,Urban,Individual User,22463,35,3,32,461,690,3.07,7.46
+2024-01-01,2024,1,Merkato Yushuwa,Urban,Individual User,22463,41,6,35,496,751,3.34,7.59
+2024-02-01,2024,2,Merkato Yushuwa,Urban,Individual User,22463,54,2,52,548,837,3.73,10.48
+2024-03-01,2024,3,Merkato Yushuwa,Urban,Individual User,22463,51,5,46,594,914,4.07,8.39
+2024-04-01,2024,4,Merkato Yushuwa,Urban,Individual User,22463,56,3,53,647,1006,4.48,8.92
+2024-05-01,2024,5,Merkato Yushuwa,Urban,Individual User,22463,67,7,60,707,1119,4.98,9.27
+2024-06-01,2024,6,Merkato Yushuwa,Urban,Individual User,22463,66,6,60,767,1220,5.43,8.49
+2024-07-01,2024,7,Merkato Yushuwa,Urban,Individual User,22463,77,6,71,838,1338,5.96,9.26
+2024-08-01,2024,8,Merkato Yushuwa,Urban,Individual User,22463,57,7,50,888,1420,6.32,5.97
+2024-09-01,2024,9,Merkato Yushuwa,Urban,Individual User,22463,56,7,49,937,1507,6.71,5.52
+2024-10-01,2024,10,Merkato Yushuwa,Urban,Individual User,22463,53,4,49,986,1589,7.07,5.23
+2024-11-01,2024,11,Merkato Yushuwa,Urban,Individual User,22463,47,7,40,1026,1664,7.41,4.06
+2024-12-01,2024,12,Merkato Yushuwa,Urban,Individual User,22463,39,5,34,1060,1726,7.68,3.31
+2023-01-01,2023,1,Merkato Yushuwa,Urban,Telebirr Adopter,22463,11,1,10,10,43,0.19,100.0
+2023-02-01,2023,2,Merkato Yushuwa,Urban,Telebirr Adopter,22463,10,5,5,15,87,0.39,50.0
+2023-03-01,2023,3,Merkato Yushuwa,Urban,Telebirr Adopter,22463,13,5,8,23,146,0.65,53.33
+2023-04-01,2023,4,Merkato Yushuwa,Urban,Telebirr Adopter,22463,13,5,8,31,213,0.95,34.78
+2023-05-01,2023,5,Merkato Yushuwa,Urban,Telebirr Adopter,22463,16,0,16,47,289,1.29,51.61
+2023-06-01,2023,6,Merkato Yushuwa,Urban,Telebirr Adopter,22463,17,3,14,61,354,1.58,29.79
+2023-07-01,2023,7,Merkato Yushuwa,Urban,Telebirr Adopter,22463,20,5,15,76,411,1.83,24.59
+2023-08-01,2023,8,Merkato Yushuwa,Urban,Telebirr Adopter,22463,18,3,15,91,474,2.11,19.74
+2023-09-01,2023,9,Merkato Yushuwa,Urban,Telebirr Adopter,22463,16,2,14,105,531,2.36,15.38
+2023-10-01,2023,10,Merkato Yushuwa,Urban,Telebirr Adopter,22463,14,5,9,114,597,2.66,8.57
+2023-11-01,2023,11,Merkato Yushuwa,Urban,Telebirr Adopter,22463,14,5,9,123,644,2.87,7.89
+2023-12-01,2023,12,Merkato Yushuwa,Urban,Telebirr Adopter,22463,12,2,10,133,690,3.07,8.13
+2024-01-01,2024,1,Merkato Yushuwa,Urban,Telebirr Adopter,22463,23,6,17,150,751,3.34,12.78
+2024-02-01,2024,2,Merkato Yushuwa,Urban,Telebirr Adopter,22463,30,2,28,178,837,3.73,18.67
+2024-03-01,2024,3,Merkato Yushuwa,Urban,Telebirr Adopter,22463,30,2,28,206,914,4.07,15.73
+2024-04-01,2024,4,Merkato Yushuwa,Urban,Telebirr Adopter,22463,27,2,25,231,1006,4.48,12.14
+2024-05-01,2024,5,Merkato Yushuwa,Urban,Telebirr Adopter,22463,40,2,38,269,1119,4.98,16.45
+2024-06-01,2024,6,Merkato Yushuwa,Urban,Telebirr Adopter,22463,38,6,32,301,1220,5.43,11.9
+2024-07-01,2024,7,Merkato Yushuwa,Urban,Telebirr Adopter,22463,32,2,30,331,1338,5.96,9.97
+2024-08-01,2024,8,Merkato Yushuwa,Urban,Telebirr Adopter,22463,26,3,23,354,1420,6.32,6.95
+2024-09-01,2024,9,Merkato Yushuwa,Urban,Telebirr Adopter,22463,31,6,25,379,1507,6.71,7.06
+2024-10-01,2024,10,Merkato Yushuwa,Urban,Telebirr Adopter,22463,28,5,23,402,1589,7.07,6.07
+2024-11-01,2024,11,Merkato Yushuwa,Urban,Telebirr Adopter,22463,27,3,24,426,1664,7.41,5.97
+2024-12-01,2024,12,Merkato Yushuwa,Urban,Telebirr Adopter,22463,26,4,22,448,1726,7.68,5.16
+2023-01-01,2023,1,Ocholo,Periphery,Business,16493,2,4,-2,-2,13,0.08,100.0
+2023-02-01,2023,2,Ocholo,Periphery,Business,16493,5,3,2,0,31,0.19,-100.0
+2023-03-01,2023,3,Ocholo,Periphery,Business,16493,4,5,-1,-1,50,0.3,100.0
+2023-04-01,2023,4,Ocholo,Periphery,Business,16493,5,2,3,2,69,0.42,-300.0
+2023-05-01,2023,5,Ocholo,Periphery,Business,16493,5,0,5,7,98,0.59,250.0
+2023-06-01,2023,6,Ocholo,Periphery,Business,16493,2,3,-1,6,124,0.75,-14.29
+2023-07-01,2023,7,Ocholo,Periphery,Business,16493,5,4,1,7,159,0.96,16.67
+2023-08-01,2023,8,Ocholo,Periphery,Business,16493,6,3,3,10,189,1.15,42.86
+2023-09-01,2023,9,Ocholo,Periphery,Business,16493,5,5,0,10,206,1.25,0.0
+2023-10-01,2023,10,Ocholo,Periphery,Business,16493,3,5,-2,8,221,1.34,-20.0
+2023-11-01,2023,11,Ocholo,Periphery,Business,16493,3,4,-1,7,234,1.42,-12.5
+2023-12-01,2023,12,Ocholo,Periphery,Business,16493,3,5,-2,5,241,1.46,-28.57
+2024-01-01,2024,1,Ocholo,Periphery,Business,16493,5,0,5,10,266,1.61,100.0
+2024-02-01,2024,2,Ocholo,Periphery,Business,16493,7,3,4,14,301,1.83,40.0
+2024-03-01,2024,3,Ocholo,Periphery,Business,16493,7,0,7,21,333,2.02,50.0
+2024-04-01,2024,4,Ocholo,Periphery,Business,16493,6,3,3,24,373,2.26,14.29
+2024-05-01,2024,5,Ocholo,Periphery,Business,16493,7,4,3,27,418,2.53,12.5
+2024-06-01,2024,6,Ocholo,Periphery,Business,16493,7,5,2,29,454,2.75,7.41
+2024-07-01,2024,7,Ocholo,Periphery,Business,16493,9,1,8,37,495,3.0,27.59
+2024-08-01,2024,8,Ocholo,Periphery,Business,16493,7,3,4,41,536,3.25,10.81
+2024-09-01,2024,9,Ocholo,Periphery,Business,16493,6,5,1,42,561,3.4,2.44
+2024-10-01,2024,10,Ocholo,Periphery,Business,16493,4,5,-1,41,587,3.56,-2.38
+2024-11-01,2024,11,Ocholo,Periphery,Business,16493,5,3,2,43,613,3.72,4.88
+2024-12-01,2024,12,Ocholo,Periphery,Business,16493,4,2,2,45,634,3.84,4.65
+2023-01-01,2023,1,Ocholo,Periphery,Individual User,16493,16,0,16,16,13,0.08,100.0
+2023-02-01,2023,2,Ocholo,Periphery,Individual User,16493,18,5,13,29,31,0.19,81.25
+2023-03-01,2023,3,Ocholo,Periphery,Individual User,16493,16,0,16,45,50,0.3,55.17
+2023-04-01,2023,4,Ocholo,Periphery,Individual User,16493,18,6,12,57,69,0.42,26.67
+2023-05-01,2023,5,Ocholo,Periphery,Individual User,16493,20,2,18,75,98,0.59,31.58
+2023-06-01,2023,6,Ocholo,Periphery,Individual User,16493,23,2,21,96,124,0.75,28.0
+2023-07-01,2023,7,Ocholo,Periphery,Individual User,16493,27,1,26,122,159,0.96,27.08
+2023-08-01,2023,8,Ocholo,Periphery,Individual User,16493,26,2,24,146,189,1.15,19.67
+2023-09-01,2023,9,Ocholo,Periphery,Individual User,16493,14,1,13,159,206,1.25,8.9
+2023-10-01,2023,10,Ocholo,Periphery,Individual User,16493,17,5,12,171,221,1.34,7.55
+2023-11-01,2023,11,Ocholo,Periphery,Individual User,16493,14,3,11,182,234,1.42,6.43
+2023-12-01,2023,12,Ocholo,Periphery,Individual User,16493,11,5,6,188,241,1.46,3.3
+2024-01-01,2024,1,Ocholo,Periphery,Individual User,16493,20,5,15,203,266,1.61,7.98
+2024-02-01,2024,2,Ocholo,Periphery,Individual User,16493,23,4,19,222,301,1.83,9.36
+2024-03-01,2024,3,Ocholo,Periphery,Individual User,16493,23,4,19,241,333,2.02,8.56
+2024-04-01,2024,4,Ocholo,Periphery,Individual User,16493,26,2,24,265,373,2.26,9.96
+2024-05-01,2024,5,Ocholo,Periphery,Individual User,16493,30,1,29,294,418,2.53,10.94
+2024-06-01,2024,6,Ocholo,Periphery,Individual User,16493,26,5,21,315,454,2.75,7.14
+2024-07-01,2024,7,Ocholo,Periphery,Individual User,16493,29,5,24,339,495,3.0,7.62
+2024-08-01,2024,8,Ocholo,Periphery,Individual User,16493,28,6,22,361,536,3.25,6.49
+2024-09-01,2024,9,Ocholo,Periphery,Individual User,16493,20,5,15,376,561,3.4,4.16
+2024-10-01,2024,10,Ocholo,Periphery,Individual User,16493,23,4,19,395,587,3.56,5.05
+2024-11-01,2024,11,Ocholo,Periphery,Individual User,16493,20,5,15,410,613,3.72,3.8
+2024-12-01,2024,12,Ocholo,Periphery,Individual User,16493,20,4,16,426,634,3.84,3.9
+2023-01-01,2023,1,Ocholo,Periphery,Telebirr Adopter,16493,4,5,-1,-1,13,0.08,100.0
+2023-02-01,2023,2,Ocholo,Periphery,Telebirr Adopter,16493,5,2,3,2,31,0.19,-300.0
+2023-03-01,2023,3,Ocholo,Periphery,Telebirr Adopter,16493,6,2,4,6,50,0.3,200.0
+2023-04-01,2023,4,Ocholo,Periphery,Telebirr Adopter,16493,7,3,4,10,69,0.42,66.67
+2023-05-01,2023,5,Ocholo,Periphery,Telebirr Adopter,16493,6,0,6,16,98,0.59,60.0
+2023-06-01,2023,6,Ocholo,Periphery,Telebirr Adopter,16493,6,0,6,22,124,0.75,37.5
+2023-07-01,2023,7,Ocholo,Periphery,Telebirr Adopter,16493,9,1,8,30,159,0.96,36.36
+2023-08-01,2023,8,Ocholo,Periphery,Telebirr Adopter,16493,7,4,3,33,189,1.15,10.0
+2023-09-01,2023,9,Ocholo,Periphery,Telebirr Adopter,16493,7,3,4,37,206,1.25,12.12
+2023-10-01,2023,10,Ocholo,Periphery,Telebirr Adopter,16493,6,1,5,42,221,1.34,13.51
+2023-11-01,2023,11,Ocholo,Periphery,Telebirr Adopter,16493,7,4,3,45,234,1.42,7.14
+2023-12-01,2023,12,Ocholo,Periphery,Telebirr Adopter,16493,4,1,3,48,241,1.46,6.67
+2024-01-01,2024,1,Ocholo,Periphery,Telebirr Adopter,16493,8,3,5,53,266,1.61,10.42
+2024-02-01,2024,2,Ocholo,Periphery,Telebirr Adopter,16493,14,2,12,65,301,1.83,22.64
+2024-03-01,2024,3,Ocholo,Periphery,Telebirr Adopter,16493,8,2,6,71,333,2.02,9.23
+2024-04-01,2024,4,Ocholo,Periphery,Telebirr Adopter,16493,15,2,13,84,373,2.26,18.31
+2024-05-01,2024,5,Ocholo,Periphery,Telebirr Adopter,16493,13,0,13,97,418,2.53,15.48
+2024-06-01,2024,6,Ocholo,Periphery,Telebirr Adopter,16493,15,2,13,110,454,2.75,13.4
+2024-07-01,2024,7,Ocholo,Periphery,Telebirr Adopter,16493,14,5,9,119,495,3.0,8.18
+2024-08-01,2024,8,Ocholo,Periphery,Telebirr Adopter,16493,17,2,15,134,536,3.25,12.61
+2024-09-01,2024,9,Ocholo,Periphery,Telebirr Adopter,16493,14,5,9,143,561,3.4,6.72
+2024-10-01,2024,10,Ocholo,Periphery,Telebirr Adopter,16493,12,4,8,151,587,3.56,5.59
+2024-11-01,2024,11,Ocholo,Periphery,Telebirr Adopter,16493,12,3,9,160,613,3.72,5.96
+2024-12-01,2024,12,Ocholo,Periphery,Telebirr Adopter,16493,8,5,3,163,634,3.84,1.88
+2023-01-01,2023,1,Shanto,Periphery,Business,15127,5,5,0,0,17,0.11,100.0
+2023-02-01,2023,2,Shanto,Periphery,Business,15127,4,4,0,0,35,0.23,100.0
+2023-03-01,2023,3,Shanto,Periphery,Business,15127,4,5,-1,-1,55,0.36,100.0
+2023-04-01,2023,4,Shanto,Periphery,Business,15127,6,1,5,4,83,0.55,-500.0
+2023-05-01,2023,5,Shanto,Periphery,Business,15127,6,4,2,6,110,0.73,50.0
+2023-06-01,2023,6,Shanto,Periphery,Business,15127,7,1,6,12,142,0.94,100.0
+2023-07-01,2023,7,Shanto,Periphery,Business,15127,5,4,1,13,171,1.13,8.33
+2023-08-01,2023,8,Shanto,Periphery,Business,15127,4,2,2,15,200,1.32,15.38
+2023-09-01,2023,9,Shanto,Periphery,Business,15127,5,0,5,20,226,1.49,33.33
+2023-10-01,2023,10,Shanto,Periphery,Business,15127,5,0,5,25,250,1.65,25.0
+2023-11-01,2023,11,Shanto,Periphery,Business,15127,3,4,-1,24,266,1.76,-4.0
+2023-12-01,2023,12,Shanto,Periphery,Business,15127,3,1,2,26,280,1.85,8.33
+2024-01-01,2024,1,Shanto,Periphery,Business,15127,6,1,5,31,315,2.08,19.23
+2024-02-01,2024,2,Shanto,Periphery,Business,15127,5,3,2,33,345,2.28,6.45
+2024-03-01,2024,3,Shanto,Periphery,Business,15127,5,4,1,34,374,2.47,3.03
+2024-04-01,2024,4,Shanto,Periphery,Business,15127,5,1,4,38,422,2.79,11.76
+2024-05-01,2024,5,Shanto,Periphery,Business,15127,5,5,0,38,451,2.98,0.0
+2024-06-01,2024,6,Shanto,Periphery,Business,15127,7,5,2,40,501,3.31,5.26
+2024-07-01,2024,7,Shanto,Periphery,Business,15127,8,0,8,48,548,3.62,20.0
+2024-08-01,2024,8,Shanto,Periphery,Business,15127,7,4,3,51,589,3.89,6.25
+2024-09-01,2024,9,Shanto,Periphery,Business,15127,8,0,8,59,627,4.14,15.69
+2024-10-01,2024,10,Shanto,Periphery,Business,15127,5,4,1,60,651,4.3,1.69
+2024-11-01,2024,11,Shanto,Periphery,Business,15127,4,2,2,62,675,4.46,3.33
+2024-12-01,2024,12,Shanto,Periphery,Business,15127,4,0,4,66,702,4.64,6.45
+2023-01-01,2023,1,Shanto,Periphery,Individual User,15127,15,1,14,14,17,0.11,100.0
+2023-02-01,2023,2,Shanto,Periphery,Individual User,15127,20,5,15,29,35,0.23,107.14
+2023-03-01,2023,3,Shanto,Periphery,Individual User,15127,22,6,16,45,55,0.36,55.17
+2023-04-01,2023,4,Shanto,Periphery,Individual User,15127,23,4,19,64,83,0.55,42.22
+2023-05-01,2023,5,Shanto,Periphery,Individual User,15127,25,5,20,84,110,0.73,31.25
+2023-06-01,2023,6,Shanto,Periphery,Individual User,15127,22,1,21,105,142,0.94,25.0
+2023-07-01,2023,7,Shanto,Periphery,Individual User,15127,20,1,19,124,171,1.13,18.1
+2023-08-01,2023,8,Shanto,Periphery,Individual User,15127,23,2,21,145,200,1.32,16.94
+2023-09-01,2023,9,Shanto,Periphery,Individual User,15127,17,0,17,162,226,1.49,11.72
+2023-10-01,2023,10,Shanto,Periphery,Individual User,15127,18,3,15,177,250,1.65,9.26
+2023-11-01,2023,11,Shanto,Periphery,Individual User,15127,16,0,16,193,266,1.76,9.04
+2023-12-01,2023,12,Shanto,Periphery,Individual User,15127,11,4,7,200,280,1.85,3.63
+2024-01-01,2024,1,Shanto,Periphery,Individual User,15127,20,2,18,218,315,2.08,9.0
+2024-02-01,2024,2,Shanto,Periphery,Individual User,15127,23,5,18,236,345,2.28,8.26
+2024-03-01,2024,3,Shanto,Periphery,Individual User,15127,23,4,19,255,374,2.47,8.05
+2024-04-01,2024,4,Shanto,Periphery,Individual User,15127,30,4,26,281,422,2.79,10.2
+2024-05-01,2024,5,Shanto,Periphery,Individual User,15127,25,5,20,301,451,2.98,7.12
+2024-06-01,2024,6,Shanto,Periphery,Individual User,15127,35,4,31,332,501,3.31,10.3
+2024-07-01,2024,7,Shanto,Periphery,Individual User,15127,29,2,27,359,548,3.62,8.13
+2024-08-01,2024,8,Shanto,Periphery,Individual User,15127,35,6,29,388,589,3.89,8.08
+2024-09-01,2024,9,Shanto,Periphery,Individual User,15127,23,4,19,407,627,4.14,4.9
+2024-10-01,2024,10,Shanto,Periphery,Individual User,15127,16,1,15,422,651,4.3,3.69
+2024-11-01,2024,11,Shanto,Periphery,Individual User,15127,22,6,16,438,675,4.46,3.79
+2024-12-01,2024,12,Shanto,Periphery,Individual User,15127,16,5,11,449,702,4.64,2.51
+2023-01-01,2023,1,Shanto,Periphery,Telebirr Adopter,15127,5,2,3,3,17,0.11,100.0
+2023-02-01,2023,2,Shanto,Periphery,Telebirr Adopter,15127,5,2,3,6,35,0.23,100.0
+2023-03-01,2023,3,Shanto,Periphery,Telebirr Adopter,15127,7,2,5,11,55,0.36,83.33
+2023-04-01,2023,4,Shanto,Periphery,Telebirr Adopter,15127,8,4,4,15,83,0.55,36.36
+2023-05-01,2023,5,Shanto,Periphery,Telebirr Adopter,15127,8,3,5,20,110,0.73,33.33
+2023-06-01,2023,6,Shanto,Periphery,Telebirr Adopter,15127,6,1,5,25,142,0.94,25.0
+2023-07-01,2023,7,Shanto,Periphery,Telebirr Adopter,15127,9,0,9,34,171,1.13,36.0
+2023-08-01,2023,8,Shanto,Periphery,Telebirr Adopter,15127,6,0,6,40,200,1.32,17.65
+2023-09-01,2023,9,Shanto,Periphery,Telebirr Adopter,15127,6,2,4,44,226,1.49,10.0
+2023-10-01,2023,10,Shanto,Periphery,Telebirr Adopter,15127,5,1,4,48,250,1.65,9.09
+2023-11-01,2023,11,Shanto,Periphery,Telebirr Adopter,15127,4,3,1,49,266,1.76,2.08
+2023-12-01,2023,12,Shanto,Periphery,Telebirr Adopter,15127,6,1,5,54,280,1.85,10.2
+2024-01-01,2024,1,Shanto,Periphery,Telebirr Adopter,15127,12,0,12,66,315,2.08,22.22
+2024-02-01,2024,2,Shanto,Periphery,Telebirr Adopter,15127,14,4,10,76,345,2.28,15.15
+2024-03-01,2024,3,Shanto,Periphery,Telebirr Adopter,15127,14,5,9,85,374,2.47,11.84
+2024-04-01,2024,4,Shanto,Periphery,Telebirr Adopter,15127,19,1,18,103,422,2.79,21.18
+2024-05-01,2024,5,Shanto,Periphery,Telebirr Adopter,15127,14,5,9,112,451,2.98,8.74
+2024-06-01,2024,6,Shanto,Periphery,Telebirr Adopter,15127,18,1,17,129,501,3.31,15.18
+2024-07-01,2024,7,Shanto,Periphery,Telebirr Adopter,15127,13,1,12,141,548,3.62,9.3
+2024-08-01,2024,8,Shanto,Periphery,Telebirr Adopter,15127,14,5,9,150,589,3.89,6.38
+2024-09-01,2024,9,Shanto,Periphery,Telebirr Adopter,15127,11,0,11,161,627,4.14,7.33
+2024-10-01,2024,10,Shanto,Periphery,Telebirr Adopter,15127,8,0,8,169,651,4.3,4.97
+2024-11-01,2024,11,Shanto,Periphery,Telebirr Adopter,15127,11,5,6,175,675,4.46,3.55
+2024-12-01,2024,12,Shanto,Periphery,Telebirr Adopter,15127,13,1,12,187,702,4.64,6.86
+2023-01-01,2023,1,Sodo-Kore,Periphery,Business,13442,4,3,1,1,18,0.13,100.0
+2023-02-01,2023,2,Sodo-Kore,Periphery,Business,13442,5,3,2,3,34,0.25,200.0
+2023-03-01,2023,3,Sodo-Kore,Periphery,Business,13442,4,5,-1,2,56,0.42,-33.33
+2023-04-01,2023,4,Sodo-Kore,Periphery,Business,13442,5,1,4,6,85,0.63,200.0
+2023-05-01,2023,5,Sodo-Kore,Periphery,Business,13442,6,1,5,11,116,0.86,83.33
+2023-06-01,2023,6,Sodo-Kore,Periphery,Business,13442,5,0,5,16,147,1.09,45.45
+2023-07-01,2023,7,Sodo-Kore,Periphery,Business,13442,5,3,2,18,170,1.26,12.5
+2023-08-01,2023,8,Sodo-Kore,Periphery,Business,13442,5,4,1,19,191,1.42,5.56
+2023-09-01,2023,9,Sodo-Kore,Periphery,Business,13442,3,4,-1,18,208,1.55,-5.26
+2023-10-01,2023,10,Sodo-Kore,Periphery,Business,13442,4,4,0,18,225,1.67,0.0
+2023-11-01,2023,11,Sodo-Kore,Periphery,Business,13442,3,2,1,19,239,1.78,5.56
+2023-12-01,2023,12,Sodo-Kore,Periphery,Business,13442,3,4,-1,18,256,1.9,-5.26
+2024-01-01,2024,1,Sodo-Kore,Periphery,Business,13442,5,5,0,18,282,2.1,0.0
+2024-02-01,2024,2,Sodo-Kore,Periphery,Business,13442,4,5,-1,17,302,2.25,-5.56
+2024-03-01,2024,3,Sodo-Kore,Periphery,Business,13442,5,3,2,19,337,2.51,11.76
+2024-04-01,2024,4,Sodo-Kore,Periphery,Business,13442,5,4,1,20,375,2.79,5.26
+2024-05-01,2024,5,Sodo-Kore,Periphery,Business,13442,6,4,2,22,414,3.08,10.0
+2024-06-01,2024,6,Sodo-Kore,Periphery,Business,13442,7,2,5,27,462,3.44,22.73
+2024-07-01,2024,7,Sodo-Kore,Periphery,Business,13442,6,2,4,31,499,3.71,14.81
+2024-08-01,2024,8,Sodo-Kore,Periphery,Business,13442,7,2,5,36,539,4.01,16.13
+2024-09-01,2024,9,Sodo-Kore,Periphery,Business,13442,6,2,4,40,567,4.22,11.11
+2024-10-01,2024,10,Sodo-Kore,Periphery,Business,13442,7,1,6,46,599,4.46,15.0
+2024-11-01,2024,11,Sodo-Kore,Periphery,Business,13442,6,2,4,50,628,4.67,8.7
+2024-12-01,2024,12,Sodo-Kore,Periphery,Business,13442,5,5,0,50,653,4.86,0.0
+2023-01-01,2023,1,Sodo-Kore,Periphery,Individual User,13442,15,0,15,15,18,0.13,100.0
+2023-02-01,2023,2,Sodo-Kore,Periphery,Individual User,13442,17,3,14,29,34,0.25,93.33
+2023-03-01,2023,3,Sodo-Kore,Periphery,Individual User,13442,19,2,17,46,56,0.42,58.62
+2023-04-01,2023,4,Sodo-Kore,Periphery,Individual User,13442,27,2,25,71,85,0.63,54.35
+2023-05-01,2023,5,Sodo-Kore,Periphery,Individual User,13442,25,5,20,91,116,0.86,28.17
+2023-06-01,2023,6,Sodo-Kore,Periphery,Individual User,13442,22,2,20,111,147,1.09,21.98
+2023-07-01,2023,7,Sodo-Kore,Periphery,Individual User,13442,21,5,16,127,170,1.26,14.41
+2023-08-01,2023,8,Sodo-Kore,Periphery,Individual User,13442,19,3,16,143,191,1.42,12.6
+2023-09-01,2023,9,Sodo-Kore,Periphery,Individual User,13442,17,2,15,158,208,1.55,10.49
+2023-10-01,2023,10,Sodo-Kore,Periphery,Individual User,13442,15,2,13,171,225,1.67,8.23
+2023-11-01,2023,11,Sodo-Kore,Periphery,Individual User,13442,10,4,6,177,239,1.78,3.51
+2023-12-01,2023,12,Sodo-Kore,Periphery,Individual User,13442,16,2,14,191,256,1.9,7.91
+2024-01-01,2024,1,Sodo-Kore,Periphery,Individual User,13442,26,6,20,211,282,2.1,10.47
+2024-02-01,2024,2,Sodo-Kore,Periphery,Individual User,13442,19,3,16,227,302,2.25,7.58
+2024-03-01,2024,3,Sodo-Kore,Periphery,Individual User,13442,28,4,24,251,337,2.51,10.57
+2024-04-01,2024,4,Sodo-Kore,Periphery,Individual User,13442,28,4,24,275,375,2.79,9.56
+2024-05-01,2024,5,Sodo-Kore,Periphery,Individual User,13442,23,1,22,297,414,3.08,8.0
+2024-06-01,2024,6,Sodo-Kore,Periphery,Individual User,13442,33,6,27,324,462,3.44,9.09
+2024-07-01,2024,7,Sodo-Kore,Periphery,Individual User,13442,24,3,21,345,499,3.71,6.48
+2024-08-01,2024,8,Sodo-Kore,Periphery,Individual User,13442,25,3,22,367,539,4.01,6.38
+2024-09-01,2024,9,Sodo-Kore,Periphery,Individual User,13442,20,5,15,382,567,4.22,4.09
+2024-10-01,2024,10,Sodo-Kore,Periphery,Individual User,13442,19,0,19,401,599,4.46,4.97
+2024-11-01,2024,11,Sodo-Kore,Periphery,Individual User,13442,21,2,19,420,628,4.67,4.74
+2024-12-01,2024,12,Sodo-Kore,Periphery,Individual User,13442,19,3,16,436,653,4.86,3.81
+2023-01-01,2023,1,Sodo-Kore,Periphery,Telebirr Adopter,13442,4,2,2,2,18,0.13,100.0
+2023-02-01,2023,2,Sodo-Kore,Periphery,Telebirr Adopter,13442,5,5,0,2,34,0.25,0.0
+2023-03-01,2023,3,Sodo-Kore,Periphery,Telebirr Adopter,13442,8,2,6,8,56,0.42,300.0
+2023-04-01,2023,4,Sodo-Kore,Periphery,Telebirr Adopter,13442,5,5,0,8,85,0.63,0.0
+2023-05-01,2023,5,Sodo-Kore,Periphery,Telebirr Adopter,13442,8,2,6,14,116,0.86,75.0
+2023-06-01,2023,6,Sodo-Kore,Periphery,Telebirr Adopter,13442,9,3,6,20,147,1.09,42.86
+2023-07-01,2023,7,Sodo-Kore,Periphery,Telebirr Adopter,13442,9,4,5,25,170,1.26,25.0
+2023-08-01,2023,8,Sodo-Kore,Periphery,Telebirr Adopter,13442,8,4,4,29,191,1.42,16.0
+2023-09-01,2023,9,Sodo-Kore,Periphery,Telebirr Adopter,13442,6,3,3,32,208,1.55,10.34
+2023-10-01,2023,10,Sodo-Kore,Periphery,Telebirr Adopter,13442,7,3,4,36,225,1.67,12.5
+2023-11-01,2023,11,Sodo-Kore,Periphery,Telebirr Adopter,13442,7,0,7,43,239,1.78,19.44
+2023-12-01,2023,12,Sodo-Kore,Periphery,Telebirr Adopter,13442,6,2,4,47,256,1.9,9.3
+2024-01-01,2024,1,Sodo-Kore,Periphery,Telebirr Adopter,13442,10,4,6,53,282,2.1,12.77
+2024-02-01,2024,2,Sodo-Kore,Periphery,Telebirr Adopter,13442,9,4,5,58,302,2.25,9.43
+2024-03-01,2024,3,Sodo-Kore,Periphery,Telebirr Adopter,13442,11,2,9,67,337,2.51,15.52
+2024-04-01,2024,4,Sodo-Kore,Periphery,Telebirr Adopter,13442,17,4,13,80,375,2.79,19.4
+2024-05-01,2024,5,Sodo-Kore,Periphery,Telebirr Adopter,13442,16,1,15,95,414,3.08,18.75
+2024-06-01,2024,6,Sodo-Kore,Periphery,Telebirr Adopter,13442,16,0,16,111,462,3.44,16.84
+2024-07-01,2024,7,Sodo-Kore,Periphery,Telebirr Adopter,13442,14,2,12,123,499,3.71,10.81
+2024-08-01,2024,8,Sodo-Kore,Periphery,Telebirr Adopter,13442,15,2,13,136,539,4.01,10.57
+2024-09-01,2024,9,Sodo-Kore,Periphery,Telebirr Adopter,13442,12,3,9,145,567,4.22,6.62
+2024-10-01,2024,10,Sodo-Kore,Periphery,Telebirr Adopter,13442,12,5,7,152,599,4.46,4.83
+2024-11-01,2024,11,Sodo-Kore,Periphery,Telebirr Adopter,13442,10,4,6,158,628,4.67,3.95
+2024-12-01,2024,12,Sodo-Kore,Periphery,Telebirr Adopter,13442,12,3,9,167,653,4.86,5.7
+2023-01-01,2023,1,Wadu Amba,Urban,Business,24626,8,0,8,8,54,0.22,100.0
+2023-02-01,2023,2,Wadu Amba,Urban,Business,24626,12,1,11,19,109,0.44,137.5
+2023-03-01,2023,3,Wadu Amba,Urban,Business,24626,12,5,7,26,172,0.7,36.84
+2023-04-01,2023,4,Wadu Amba,Urban,Business,24626,14,0,14,40,248,1.01,53.85
+2023-05-01,2023,5,Wadu Amba,Urban,Business,24626,12,2,10,50,333,1.35,25.0
+2023-06-01,2023,6,Wadu Amba,Urban,Business,24626,12,2,10,60,421,1.71,20.0
+2023-07-01,2023,7,Wadu Amba,Urban,Business,24626,13,0,13,73,511,2.08,21.67
+2023-08-01,2023,8,Wadu Amba,Urban,Business,24626,15,0,15,88,591,2.4,20.55
+2023-09-01,2023,9,Wadu Amba,Urban,Business,24626,10,5,5,93,669,2.72,5.68
+2023-10-01,2023,10,Wadu Amba,Urban,Business,24626,12,5,7,100,744,3.02,7.53
+2023-11-01,2023,11,Wadu Amba,Urban,Business,24626,9,3,6,106,791,3.21,6.0
+2023-12-01,2023,12,Wadu Amba,Urban,Business,24626,9,0,9,115,839,3.41,8.49
+2024-01-01,2024,1,Wadu Amba,Urban,Business,24626,12,2,10,125,926,3.76,8.7
+2024-02-01,2024,2,Wadu Amba,Urban,Business,24626,14,3,11,136,1040,4.22,8.8
+2024-03-01,2024,3,Wadu Amba,Urban,Business,24626,17,1,16,152,1151,4.67,11.76
+2024-04-01,2024,4,Wadu Amba,Urban,Business,24626,18,4,14,166,1267,5.14,9.21
+2024-05-01,2024,5,Wadu Amba,Urban,Business,24626,20,3,17,183,1393,5.66,10.24
+2024-06-01,2024,6,Wadu Amba,Urban,Business,24626,20,0,20,203,1531,6.22,10.93
+2024-07-01,2024,7,Wadu Amba,Urban,Business,24626,17,1,16,219,1639,6.66,7.88
+2024-08-01,2024,8,Wadu Amba,Urban,Business,24626,16,5,11,230,1749,7.1,5.02
+2024-09-01,2024,9,Wadu Amba,Urban,Business,24626,15,0,15,245,1855,7.53,6.52
+2024-10-01,2024,10,Wadu Amba,Urban,Business,24626,13,4,9,254,1955,7.94,3.67
+2024-11-01,2024,11,Wadu Amba,Urban,Business,24626,11,0,11,265,2055,8.34,4.33
+2024-12-01,2024,12,Wadu Amba,Urban,Business,24626,11,1,10,275,2132,8.66,3.77
+2023-01-01,2023,1,Wadu Amba,Urban,Individual User,24626,35,3,32,32,54,0.22,100.0
+2023-02-01,2023,2,Wadu Amba,Urban,Individual User,24626,36,3,33,65,109,0.44,103.12
+2023-03-01,2023,3,Wadu Amba,Urban,Individual User,24626,51,2,49,114,172,0.7,75.38
+2023-04-01,2023,4,Wadu Amba,Urban,Individual User,24626,56,5,51,165,248,1.01,44.74
+2023-05-01,2023,5,Wadu Amba,Urban,Individual User,24626,58,2,56,221,333,1.35,33.94
+2023-06-01,2023,6,Wadu Amba,Urban,Individual User,24626,67,3,64,285,421,1.71,28.96
+2023-07-01,2023,7,Wadu Amba,Urban,Individual User,24626,60,4,56,341,511,2.08,19.65
+2023-08-01,2023,8,Wadu Amba,Urban,Individual User,24626,49,4,45,386,591,2.4,13.2
+2023-09-01,2023,9,Wadu Amba,Urban,Individual User,24626,65,3,62,448,669,2.72,16.06
+2023-10-01,2023,10,Wadu Amba,Urban,Individual User,24626,51,3,48,496,744,3.02,10.71
+2023-11-01,2023,11,Wadu Amba,Urban,Individual User,24626,37,5,32,528,791,3.21,6.45
+2023-12-01,2023,12,Wadu Amba,Urban,Individual User,24626,34,6,28,556,839,3.41,5.3
+2024-01-01,2024,1,Wadu Amba,Urban,Individual User,24626,54,2,52,608,926,3.76,9.35
+2024-02-01,2024,2,Wadu Amba,Urban,Individual User,24626,67,2,65,673,1040,4.22,10.69
+2024-03-01,2024,3,Wadu Amba,Urban,Individual User,24626,59,7,52,725,1151,4.67,7.73
+2024-04-01,2024,4,Wadu Amba,Urban,Individual User,24626,74,7,67,792,1267,5.14,9.24
+2024-05-01,2024,5,Wadu Amba,Urban,Individual User,24626,90,4,86,878,1393,5.66,10.86
+2024-06-01,2024,6,Wadu Amba,Urban,Individual User,24626,81,5,76,954,1531,6.22,8.66
+2024-07-01,2024,7,Wadu Amba,Urban,Individual User,24626,68,5,63,1017,1639,6.66,6.6
+2024-08-01,2024,8,Wadu Amba,Urban,Individual User,24626,60,4,56,1073,1749,7.1,5.51
+2024-09-01,2024,9,Wadu Amba,Urban,Individual User,24626,57,5,52,1125,1855,7.53,4.85
+2024-10-01,2024,10,Wadu Amba,Urban,Individual User,24626,61,2,59,1184,1955,7.94,5.24
+2024-11-01,2024,11,Wadu Amba,Urban,Individual User,24626,59,3,56,1240,2055,8.34,4.73
+2024-12-01,2024,12,Wadu Amba,Urban,Individual User,24626,51,4,47,1287,2132,8.66,3.79
+2023-01-01,2023,1,Wadu Amba,Urban,Telebirr Adopter,24626,15,1,14,14,54,0.22,100.0
+2023-02-01,2023,2,Wadu Amba,Urban,Telebirr Adopter,24626,16,5,11,25,109,0.44,78.57
+2023-03-01,2023,3,Wadu Amba,Urban,Telebirr Adopter,24626,11,4,7,32,172,0.7,28.0
+2023-04-01,2023,4,Wadu Amba,Urban,Telebirr Adopter,24626,15,4,11,43,248,1.01,34.38
+2023-05-01,2023,5,Wadu Amba,Urban,Telebirr Adopter,24626,19,0,19,62,333,1.35,44.19
+2023-06-01,2023,6,Wadu Amba,Urban,Telebirr Adopter,24626,17,3,14,76,421,1.71,22.58
+2023-07-01,2023,7,Wadu Amba,Urban,Telebirr Adopter,24626,21,0,21,97,511,2.08,27.63
+2023-08-01,2023,8,Wadu Amba,Urban,Telebirr Adopter,24626,20,0,20,117,591,2.4,20.62
+2023-09-01,2023,9,Wadu Amba,Urban,Telebirr Adopter,24626,16,5,11,128,669,2.72,9.4
+2023-10-01,2023,10,Wadu Amba,Urban,Telebirr Adopter,24626,20,0,20,148,744,3.02,15.62
+2023-11-01,2023,11,Wadu Amba,Urban,Telebirr Adopter,24626,14,5,9,157,791,3.21,6.08
+2023-12-01,2023,12,Wadu Amba,Urban,Telebirr Adopter,24626,16,5,11,168,839,3.41,7.01
+2024-01-01,2024,1,Wadu Amba,Urban,Telebirr Adopter,24626,30,5,25,193,926,3.76,14.88
+2024-02-01,2024,2,Wadu Amba,Urban,Telebirr Adopter,24626,40,2,38,231,1040,4.22,19.69
+2024-03-01,2024,3,Wadu Amba,Urban,Telebirr Adopter,24626,44,1,43,274,1151,4.67,18.61
+2024-04-01,2024,4,Wadu Amba,Urban,Telebirr Adopter,24626,36,1,35,309,1267,5.14,12.77
+2024-05-01,2024,5,Wadu Amba,Urban,Telebirr Adopter,24626,29,6,23,332,1393,5.66,7.44
+2024-06-01,2024,6,Wadu Amba,Urban,Telebirr Adopter,24626,48,6,42,374,1531,6.22,12.65
+2024-07-01,2024,7,Wadu Amba,Urban,Telebirr Adopter,24626,32,3,29,403,1639,6.66,7.75
+2024-08-01,2024,8,Wadu Amba,Urban,Telebirr Adopter,24626,48,5,43,446,1749,7.1,10.67
+2024-09-01,2024,9,Wadu Amba,Urban,Telebirr Adopter,24626,40,1,39,485,1855,7.53,8.74
+2024-10-01,2024,10,Wadu Amba,Urban,Telebirr Adopter,24626,38,6,32,517,1955,7.94,6.6
+2024-11-01,2024,11,Wadu Amba,Urban,Telebirr Adopter,24626,34,1,33,550,2055,8.34,6.38
+2024-12-01,2024,12,Wadu Amba,Urban,Telebirr Adopter,24626,25,5,20,570,2132,8.66,3.64
