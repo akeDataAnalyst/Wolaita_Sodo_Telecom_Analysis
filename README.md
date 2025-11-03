@@ -1,5 +1,5 @@
 # Wolaita Sodo Telecom Subscriber Growth & Penetration Analysis
-[](03_Wolaita_Sodo_Analysis_Dashboard.png)
+![](03_Wolaita_Sodo_Analysis_Dashboard.png)
 ## Project Overview
 This project simulates a comprehensive data analytics pipeline for a telecom provider operating in the **Wolaita Sodo district, Ethiopia**. The goal is to track, analyze, and forecast subscriber growth across different **kebeles** (localities) and key **customer segments** (Individual Users, Businesses, Telebirr Adopters).
 
